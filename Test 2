@@ -126,8 +126,8 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_600.m3u8?j
 #EXTINF:-1 tvg-id="Aaj Tak HD" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png",Aaj Tak HD
 http://94.130.175.89:4545/ind2020/aajtakhd/chunks.m3u8?nimblesessionid=1173389&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDY6Mzk6MjggQU0maGFzaF92YWx1ZT1KcUpkRC9mUmQ4MWNlWnljcTlZSGNRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="Abp News" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:ABP_News_logo.png",Abp News
-http://zer0live.hjkm.info:13292/juno/abpnews/chunks.m3u8?nimblesessionid=21075339&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDY6NTg6MTIgQU0maGFzaF92YWx1ZT05Vi9wTUNQRmZ4NEpja3MrN3Zpd2RnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="ABP News" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:ABP_News_logo.png",Abp News
+http://zer0live.hjkm.info:13292/juno/abpnews/chunks.m3u8?nimblesessionid=15265095&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDg6MzY6MTMgQU0maGFzaF92YWx1ZT1ieXFnZzZPVWt0UGpyQmd1ajFvZmN3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="Delhi Aaj Tak" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuwoa10Ee1xK4O1LyiEW8ohnUYwAHat4uDokyYFXprVxLyPQFi",Delhi Aaj Tak
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist_b3500000.m3u8?__nn__=5606168722001&hdnea=1581751800_dc6234bdc4c58cbb61b002f74e57ac6f
