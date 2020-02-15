@@ -153,7 +153,8 @@ https://repblicwld.s.llnwi.net/liveorigin/republictv/masterlive_360p.m3u8
 #EXTINF:-1 tvg-id="Republic Bharat" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg",Republic Bharat
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_2.m3u8
 
-
+#EXTINF:-1 tvg-id="Zee News" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:Zee_News.png",Zee News
+https://z5ams.akamaized.net/zeenews/index.m3u8?hdnts=st=1581758018~exp=1581761018~acl=/*~hmac=4c1c212bfe5e80e380fe330e7b37de346a18273ed5c837d951f78bb7a8c16dfe
 
 
 
