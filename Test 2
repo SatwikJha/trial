@@ -144,8 +144,11 @@ http://94.130.175.89:4545/ind2020/ndtv24x7/chunks.m3u8?nimblesessionid=1195555&w
 #EXTINF:-1 tvg-id="DD News" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:DD_News_Logo_2015.jpg",DD News
 https://z5ams.akamaized.net/ddnews/index.m3u8?hdnts=st=1581752322~exp=1581755322~acl=/*~hmac=0ea3cea7b9abda1bb107ea6a8cefd3583c0c7c02b13e60bb8065f4d83efc9fe1
  
-#EXTINF:-1 tvd-id="NDTV India" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:NDTV_India.png",NDTV India
+#EXTINF:-1 tvg-id="NDTV India" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:NDTV_India.png",NDTV India
 http://94.130.175.89:4545/ind2020/ndtvin/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDg6NDQ6NTQgQU0maGFzaF92YWx1ZT1ReTJDWHJOaUNPNG1wNm9ZR1VWbkhnPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1 tvg-id="Republic TV" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg", Republic TV,
+https://repblicwld.s.llnwi.net/liveorigin/republictv/masterlive_360p.m3u8
 
 
 
