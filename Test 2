@@ -129,8 +129,12 @@ http://94.130.175.89:4545/ind2020/aajtakhd/chunks.m3u8?nimblesessionid=1173389&w
 #EXTINF:-1 tvg-id="Abp News" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:ABP_News_logo.png",Abp News
 http://zer0live.hjkm.info:13292/juno/abpnews/chunks.m3u8?nimblesessionid=21075339&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDY6NTg6MTIgQU0maGFzaF92YWx1ZT05Vi9wTUNQRmZ4NEpja3MrN3Zpd2RnPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="Delhi Aaj Tak" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuwoa10Ee1xK4O1LyiEW8ohnUYwAHat4uDokyYFXprVxLyPQFi,Delhi Aaj Tak
+#EXTINF:-1 tvg-id="Delhi Aaj Tak" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuwoa10Ee1xK4O1LyiEW8ohnUYwAHat4uDokyYFXprVxLyPQFi",Delhi Aaj Tak
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist_b3500000.m3u8?__nn__=5606168722001&hdnea=1581751800_dc6234bdc4c58cbb61b002f74e57ac6f
+
+#EXTINF:- tvg-id="India Today" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:India_Today_TV_Channel_logo.jpg",India Today
+https://sonyvidgyor.akamaized.net/hls/live/2004796/INDIATODAYEVENT/INDIATODAY_7/chunklist.m3u8
+
 
 
 #EXTINF:-1 tvg-name="Discovery Showcase" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Discovery_Showcase_HD.png/revision/latest/scale-to-width-down/300?cb=20161213133625",Discovery Showcase
