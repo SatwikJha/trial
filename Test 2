@@ -144,6 +144,11 @@ http://94.130.175.89:4545/ind2020/ndtv24x7/chunks.m3u8?nimblesessionid=1195555&w
 #EXTINF:- tvg-id="DD News" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:DD_News_Logo_2015.jpg",DD News
 https://z5ams.akamaized.net/ddnews/index.m3u8?hdnts=st=1581752322~exp=1581755322~acl=/*~hmac=0ea3cea7b9abda1bb107ea6a8cefd3583c0c7c02b13e60bb8065f4d83efc9fe1
  
+#EXTINF:- tvd-id="NDTV India" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:NDTV_India.png",NDTV India
+http://94.130.175.89:4545/ind2020/ndtvin/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDg6NDQ6NTQgQU0maGFzaF92YWx1ZT1ReTJDWHJOaUNPNG1wNm9ZR1VWbkhnPT0mdmFsaWRtaW51dGVzPTI=
+
+
+
 
 #EXTINF:-1 tvg-name="Discovery Showcase" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Discovery_Showcase_HD.png/revision/latest/scale-to-width-down/300?cb=20161213133625",Discovery Showcase
 http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8|user-agent="Lavf/56.15.102"
