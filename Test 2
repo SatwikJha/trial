@@ -127,7 +127,7 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_600.m3u8?j
 https://sonyvidgyor.akamaized.net/hls/live/2004795/AAJTAKEVENT/AAJTAK/playlist.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1571990400_881172137fa781279c32f60c2dd661f6&__nn__=5606168722001&hdnea=1581759000_caf333da30e3c2113d73d83ee16c2092
 
 #EXTINF:-1 tvg-id="ABP News" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:ABP_News_logo.png",ABP News
-http://zer0live.hjkm.info:13292/juno/abpnews/chunks.m3u8?nimblesessionid=20320293&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDk6NDc6MTkgQU0maGFzaF92YWx1ZT11MEVycmhDcy9Fcit5M1VWN2lpdmJnPT0mdmFsaWRtaW51dGVzPTI=
+http://zer0live.hjkm.info:13292/juno/abpnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDk6NTM6MTkgQU0maGFzaF92YWx1ZT1PMVhsdmI2cWJTcVpnbEFCUEwyTkd3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="Delhi Aaj Tak" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuwoa10Ee1xK4O1LyiEW8ohnUYwAHat4uDokyYFXprVxLyPQFi",Delhi Aaj Tak
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist_b3500000.m3u8?__nn__=5606168722001&hdnea=1581751800_dc6234bdc4c58cbb61b002f74e57ac6f
