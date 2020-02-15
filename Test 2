@@ -143,7 +143,7 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist_b3
 https://sonyvidgyor.akamaized.net/hls/live/2004796/INDIATODAYEVENT/INDIATODAY_7/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="India Tv" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:India_tv.png",India Tv
-http://94.130.175.89:4545/ind2020/indiatv/chunks.m3u8?nimblesessionid=1180552&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDc6MTk6MTYgQU0maGFzaF92YWx1ZT1PbWY3ZU55T1liaFhBR3RCNmkyV2t3PT0mdmFsaWRtaW51dGVzPTI=
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
 
 #EXTINF:-1 tvg-id="NDTV 24x7" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:NDTV_247.svg",NDTV 24x7
 http://94.130.175.89:4545/ind2020/ndtv24x7/chunks.m3u8?nimblesessionid=1195555&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDg6MzI6NTQgQU0maGFzaF92YWx1ZT1QRlZuRm5hZVU4czdLelBBZzVzdTNnPT0mdmFsaWRtaW51dGVzPTI=
