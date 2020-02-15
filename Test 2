@@ -139,8 +139,9 @@ https://sonyvidgyor.akamaized.net/hls/live/2004796/INDIATODAYEVENT/INDIATODAY_7/
 http://94.130.175.89:4545/ind2020/indiatv/chunks.m3u8?nimblesessionid=1180552&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDc6MTk6MTYgQU0maGFzaF92YWx1ZT1PbWY3ZU55T1liaFhBR3RCNmkyV2t3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:- tvg-id="NDTV 24x7" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:NDTV_247.svg",NDTV 24x7
-http://zer0live.hjkm.info:13292/juno/ndtv24x7news/chunks.m3u8?nimblesessionid=20301788&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDc6Mzg6NDYgQU0maGFzaF92YWx1ZT11RWF6alg4OCtYRHZDYlpLcHgyallBPT0mdmFsaWRtaW51dGVzPTI=
+http://zer0live.hjkm.info:13292/juno/ndtv24x7news/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDIwIDc6NDY6MzQgQU0maGFzaF92YWx1ZT0ybTYzVFpmREpONVBrck5EbEhUU2tRPT0mdmFsaWRtaW51dGVzPTI=
 
+#
 
 #EXTINF:-1 tvg-name="Discovery Showcase" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Discovery_Showcase_HD.png/revision/latest/scale-to-width-down/300?cb=20161213133625",Discovery Showcase
 http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8|user-agent="Lavf/56.15.102"
