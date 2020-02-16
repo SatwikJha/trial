@@ -139,6 +139,16 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="Delhi Aaj Tak" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuwoa10Ee1xK4O1LyiEW8ohnUYwAHat4uDokyYFXprVxLyPQFi",Delhi Aaj Tak
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist_b3500000.m3u8?__nn__=5606168722001&hdnea=1581751800_dc6234bdc4c58cbb61b002f74e57ac6f
 
+
+#EXTINF:-1 tvg-id="Republic TV" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg",Republic TV
+https://repblicwld.s.llnwi.net/liveorigin/republictv/masterlive_360p.m3u8
+
+
+#EXTINF:-1 tvg-id="Republic Bharat" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_2.m3u8
+
+
+
 #EXTINF:-1 tvg-id="India Today" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:India_Today_TV_Channel_logo.jpg",India Today
 https://sonyvidgyor.akamaized.net/hls/live/2004796/INDIATODAYEVENT/INDIATODAY_7/chunklist.m3u8
 
@@ -155,11 +165,6 @@ https://z5ams.akamaized.net/ddnews/index.m3u8?hdnts=st=1581833021~exp=1581836021
 #EXTINF:-1 tvg-id="NDTV India" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:NDTV_India.png",NDTV India
 http://94.130.175.89:4545/ind2020/ndtvin/chunks.m3u8?nimblesessionid=1693375&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIwIDU6MjU6MTcgQU0maGFzaF92YWx1ZT1NSEZUR0YwNWo4cGdndzYzWFBSNjZRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="Republic TV" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg",Republic TV
-https://repblicwld.s.llnwi.net/liveorigin/republictv/masterlive_360p.m3u8
-
-#EXTINF:-1 tvg-id="Republic Bharat" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg",Republic Bharat
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_2.m3u8
 
 #EXTINF:-1 tvg-id="Zee News" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:Zee_News.png",Zee News
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
