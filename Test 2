@@ -126,7 +126,7 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_600.m3u8?j
 
 
 
-#EXTINF:-1 tvg-id="India Tv" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:India_tv.png",India Tv
+#EXTINF:-1 tvg-id="India Tv" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/India_tv.png",India Tv
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_1@199237/chunks.m3u8
 
 
