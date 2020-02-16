@@ -147,6 +147,8 @@ https://repblicwld.s.llnwi.net/liveorigin/republictv/masterlive_360p.m3u8
 #EXTINF:-1 tvg-id="Republic Bharat" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg",Republic Bharat HIN
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_2.m3u8
 
+#EXTINF:-1 tvg-id="News 18 India" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png",News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 
 
 #EXTINF:-1 tvg-id="India Today" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:India_Today_TV_Channel_logo.jpg",India Today
