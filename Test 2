@@ -162,7 +162,7 @@ https://repblicwld.s.llnwi.net/liveorigin/republictv/masterlive_360p.m3u8
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_2.m3u8
 
 #EXTINF:-1 tvg-id="Zee News" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:Zee_News.png",Zee News
-https://z5ams.akamaized.net/zeenews/index.m3u8?hdnts=st=1581778246~exp=1581781246~acl=/*~hmac=f5139f75de0cb878ebdbd2e6793192dab9206dc719dda7f78e2dbc4bbe4b47f0
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
 
 
 
