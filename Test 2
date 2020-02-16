@@ -174,7 +174,7 @@ https://sonyvidgyor.akamaized.net/hls/live/2004796/INDIATODAYEVENT/INDIATODAY_7/
 
 
 
-#EXTINF:-1 tvg-id="NDTV 24x7" group-title="News" tvg-logo="https://en.m.wikipedia.org/wiki/File:NDTV_247.svg",NDTV 24x7
+#EXTINF:-1 tvg-id="NDTV 24x7" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png",NDTV 24x7
 http://94.130.175.89:4545/ind2020/ndtv24x7/chunks.m3u8?nimblesessionid=1702565&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIwIDY6MjA6MjcgQU0maGFzaF92YWx1ZT1nZmV3SkllLzdjN3NaWkdhZnZIbWlRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="DD News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/DD_News_Logo_2015.jpg",DD News
