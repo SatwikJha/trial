@@ -167,6 +167,11 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeenews/index.m3u8
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 
 
+#EXTINF:-1 tvg-id="CNBC Awaaz" group-title="News" tvg-logo="https://banner2.kisspng.com/20180716/sfk/kisspng-cnbc-awaaz-logo-of-nbc-india-television-channel-5b4d283db7fae1.7249822215317832297536.jpg",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+
+
+
 #EXTINF:-1 tvg-id="Delhi Aaj Tak" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuwoa10Ee1xK4O1LyiEW8ohnUYwAHat4uDokyYFXprVxLyPQFi",Delhi Aaj Tak
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist_b3500000.m3u8?__nn__=5606168722001&hdnea=1581751800_dc6234bdc4c58cbb61b002f74e57ac6f
 
