@@ -127,7 +127,7 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Epic_HD/Epic_HD_600.m3u8?j
 https://hsaajtak-i.akamaihd.net/hls/live/719730/tezevent/tez_6/chunklist.m3u8
 
 #EXTINF:- tvg-id="News Nation" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg",News Nation
-https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist_b2554555.m3u8
+https://livestream.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_NewsNation/playlist.m3u8
 
 
 
