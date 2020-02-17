@@ -185,14 +185,8 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&r
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist_b3500000.m3u8?__nn__=5606168722001&hdnea=1581751800_dc6234bdc4c58cbb61b002f74e57ac6f
 
 
-
 #EXTINF:-1 tvg-id="India Today" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/India_Today_TV_Channel_logo.jpg",India Today
 https://sonyvidgyor.akamaized.net/hls/live/2004796/INDIATODAYEVENT/INDIATODAY_7/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-id="DD News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/DD_News_Logo_2015.jpg",DD News
-http://zer0live.hjkm.info:13292/neptune/ddnews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDc6NDk6MDEgQU0maGFzaF92YWx1ZT0yYmdLcG4wZWoySnFZM3pXZkhWRWpnPT0mdmFsaWRtaW51dGVzPTI=
- 
 
 
 
