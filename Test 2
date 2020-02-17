@@ -155,7 +155,7 @@ https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklis
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
 #EXTINF:-1 tvg-id="NDTV India" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png",NDTV India
-https://msllive.yuppcdn.net/live/yuppmslukmo/hls/live/2007105/ndtvhindi/ndtvhindi/playlist/master.m3u8?hdnts=st=1581936056~exp=1581936656~acl=!*/ndtvhindi/ndtvhindi/*!/payload/yuppTVCom_61_-1_5a7aa8d30ddc4d93_IN_203.212.225.198/*~hmac=bec974d1cbcfc93acb1c70f58c9af172c620089c05a20dd49902c50c2ca93ff9
+https://dai.google.com/linear/hls/pb/event/cXpfjAMTR4OKnp9WJxHc9g/stream/19b221e9-2297-46c0-b1f7-a5e13dc60b64:SIN/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Times Now" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png",Times Now
