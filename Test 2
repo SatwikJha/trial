@@ -285,8 +285,12 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_ESPN_HD/Sony
 #EXTINF:-1 tvg-id="92 News" group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/chunks.m3u8?nimblesessionid=10282403&HD
 
-#EXTINF:-1 tvg-id="A Plus" group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/State_emblem_of_Pakistan.svg",A plus
+#EXTINF:-1 tvg-id="A Plus" group-title="Pakistan" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/a_plus.jpg",A plus
 http://94.130.110.12:6256/pak2020/aplus/chunks.m3u8?nimblesessionid=887701&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDExOjMyOjI0IEFNJmhhc2hfdmFsdWU9L2Y0WWpqcjZVcXNtZzcrSVRzNC9RZz09JnZhbGlkbWludXRlcz01
+
+#EXTINF:-1 tvg-id="A Tv" group-title="Pakistan" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atv_kr.jpg", Atv
+http://94.130.110.12:6256/pak2020/atv/chunks.m3u8?nimblesessionid=888460&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDExOjQyOjQzIEFNJmhhc2hfdmFsdWU9Tkw2eWdUZDBrRjJySXN4ZjUyclJyUT09JnZhbGlkbWludXRlcz01
+
 
 
 
