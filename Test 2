@@ -190,9 +190,12 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist_b3
 https://sonyvidgyor.akamaized.net/hls/live/2004796/INDIATODAYEVENT/INDIATODAY_7/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="IBC News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Ibc24_logo.jpeg",IBC24 Regional
+#EXTINF:-1 tvg-id="IBC News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Ibc24_logo.jpeg",IBC24 Chattisgarh&MP
 https://stream2.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=1582030800_8fbe9018e985771600a06beb13aaa6a7
 
+
+#EXTINF:-1 tvg-id="News18" group-title="News" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_x5lwSmRgCBEVa5t5WDI0L3os75hCecaTOPQ=s288-c-k-c0xffffffff-no-rj-mo",News18 Bihar&Jharkhand
+https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/master.m3u8?hdnea=st=1582029371~exp=1582065371~acl=/*~hmac=8cbd5b2689ed5c4194b613ecef0d1da100bb2c843a528376d8fc8630b71e3500
 
 
 
