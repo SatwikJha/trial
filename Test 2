@@ -306,11 +306,11 @@ https://cdn10.mjunoon.tv:8087/web/8XM-131/live/131H/chunks.m3u8?nimblesessionid=
 
 
 
-#EXTINF:-1 tvg-id="Dream Girl" group-title="vod" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Dream_Girl.png",Dream Girl
+#EXTINF:-1 tvg-id="Dream Girl" group-title="VOD MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Dream_Girl.png",Dream Girl
 https://movie2.cinemakeren21.com/movies/02-12-2020/Dream.Girl.2019.WEB-DL.480p.FMZM.mp4
 
-#EXTINF:-1 tvg-id="Shubh Mangal Saavdhan" group-title="vod" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Shubh_Mangal_Savdhan_Poster.jpg",Shubh Mangal Saavdhan
+#EXTINF:-1 tvg-id="Shubh Mangal Saavdhan" group-title="VOD MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Shubh_Mangal_Savdhan_Poster.jpg",Shubh Mangal Saavdhan
 https://zee5vodnd.akamaized.net/hls1/elemental/hls/Movies/SHUBH_MANGAL_SAAVDHAN_HINDI_MOVIE_REX_4f8cd2933691cfbe02f32517a2d511bf/index1080p/1080p.m3u8?hdnea=st=1581669140~exp=1581672140~acl=/*~hmac=11a5bd3069a7c4308ca94de315b933666fbe1acfbce47a17921299fca3f4a9fd
 
-#EXTINF:- tvg-id="Joker" group-title="vod" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg",Joker
+#EXTINF:- tvg-id="Joker" group-title="VOD MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg",Joker
 http://tr1t0n.steropes.feralhosting.com/movies/Joker.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.mp4
