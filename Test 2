@@ -295,7 +295,8 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_ESPN_HD/Sony
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Abb Tak" group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak_news_logo.png,Abb Tak
-https://cdn6.mjunoon.tv:8087/web/AbbTakNews-133/live/133H/chunks.m3u8?nimblesessionid=2156689&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDEwOjQ4OjAxIEFNJmhhc2hfdmFsdWU9dGkrbUV1a0JMdldVcUdhbG11SlZHdz09JnZhbGlkbWludXRlcz0x
+https://cdn10.mjunoon.tv:8087/web/AbbTakNews-133/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIwIDY6NTY6NDAgQU0maGFzaF92YWx1ZT0ra0dFV3pNYnNuRDg4d3ErdjJTUDR3PT0mdmFsaWRtaW51dGVzPTE=
+
 
 #EXTINF:-1 tvg-id="Atv" group-title="Pakistan" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atv_kr.jpg",Atv
 https://cdn9.mjunoon.tv:8087/web/ATV-123/live/123L/chunks.m3u8?nimblesessionid=8722&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDIwIDExOjIwOjM1IEFNJmhhc2hfdmFsdWU9d2N5bUpKUTFyZ2g2TzF5K0xIcEJxUT09JnZhbGlkbWludXRlcz0x
