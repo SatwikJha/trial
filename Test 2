@@ -194,9 +194,8 @@ https://sonyvidgyor.akamaized.net/hls/live/2004796/INDIATODAYEVENT/INDIATODAY_7/
 https://stream2.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=1582030800_8fbe9018e985771600a06beb13aaa6a7
 
 
-#EXTINF:-1 tvg-id="News18" group-title="News" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_x5lwSmRgCBEVa5t5WDI0L3os75hCecaTOPQ=s288-c-k-c0xffffffff-no-rj-mo",News18 Bihar&Jharkhand
-https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/master.m3u8?hdnea=st=1582029371~exp=1582065371~acl=/*~hmac=8cbd5b2689ed5c4194b613ecef0d1da100bb2c843a528376d8fc8630b71e3500
-
+#EXTINF:-1 tvg-id="Zee" group-title="News" tvg-logo="https://mobile.twitter.com/ZeeBiharNews/photo",Zee Bihar&Jharkhand
+https://z5ams.akamaized.net/biharjharkh/index.m3u8?hdnts=st=1582103369~exp=1582106369~acl=/*~hmac=1e8509ebbd8b05b7c1e77d6460e175013d2f24c91e6b1801345d09c45b040f57
 
 
 #EXTINF:-1 tvg-name="Discovery Showcase" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Discovery_Showcase_HD.png/revision/latest/scale-to-width-down/300?cb=20161213133625",Discovery Showcase
