@@ -306,6 +306,15 @@ https://cdn10.mjunoon.tv:8087/web/8XM-131/live/131H/chunks.m3u8?nimblesessionid=
 
 
 
+
+#EXTINF:-1 tvg-id="FoxNews" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",Fox News
+http://35.204.252.180:5454/usa2020/foxnewsus/chunks.m3u8?nimblesessionid=1806444&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIwIDY6MDM6NDkgUE0maGFzaF92YWx1ZT0zdnRIcFBSTEU0bjRBc1Jod091K3h3PT0mdmFsaWRtaW51dGVzPTI=
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Dream Girl" group-title="VOD MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Dream_Girl.png",Dream Girl
 https://movie2.cinemakeren21.com/movies/02-12-2020/Dream.Girl.2019.WEB-DL.480p.FMZM.mp4
 
