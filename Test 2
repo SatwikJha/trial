@@ -86,7 +86,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif",Sony HD
-https://sony247channels.akamaized.net/hls/live/2009800/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
+https://sony247channels.akamaized.net/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/cbc941bf-5eaa-4482-892b-87b93368ae94:SIN/variant/a49c924dba7b5fb82eaa85d8e4a4647a/bandwidth/hdntl=exp=1582356625~acl=%2f*~data=hdntl~hmac=ea6db740cec2744c861a99986790490d9f5af1ed72d4c28d3eb58110cdc62f53/189200.m3u8
 #EXTINF:-1 tvg-id="SET" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251",Sony Max HD
 https://sony247channels.akamaized.net/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/2d4c665f-240b-4944-a774-d6bfb4e422e6:SIN/variant/252ef1bc3358fd3b57280b3484c06dba/bandwidth/hdntl=exp=1582353445~acl=%2f*~data=hdntl~hmac=958e3218bbc74e38684e9fe4dd72e2ab96f585edf4082ecd0be9189554ab1063/3955600.m3u8
 
