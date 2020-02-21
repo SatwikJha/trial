@@ -89,6 +89,13 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 https://sony247channels.akamaized.net/hls/live/2009800/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1 tvg-id="SET" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251",Sony Max HD
 https://sony247channels.akamaized.net/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/2d4c665f-240b-4944-a774-d6bfb4e422e6:SIN/variant/252ef1bc3358fd3b57280b3484c06dba/bandwidth/hdntl=exp=1582353445~acl=%2f*~data=hdntl~hmac=958e3218bbc74e38684e9fe4dd72e2ab96f585edf4082ecd0be9189554ab1063/3955600.m3u8
+
+#EXTINF:-1 tvg-id="Star" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707",Star Gold Select
+http://zer0live.hjkm.info:13292/juno/stargoldselect/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDc6MTM6MjcgQU0maGFzaF92YWx1ZT1jZHRlckVsQktUS2xxdmtzaUFJWm1nPT0mdmFsaWRtaW51dGVzPTI=
+
+
+
+
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg/revision/latest/scale-to-width-down/284?cb=20190614102247",Sony SAB HD
 https://sony247channels.akamaized.net/hls/live/2009801/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/180px-Zee_TV-2018.png",Zee TV HD
