@@ -112,8 +112,8 @@ http://52.66.207.99/h.php?c=starplushd&e=.m3u8|user-agent="Mozilla/5.0 (CrKey ar
 #EXTINF:-1 tvg-id="STAR BHARAT HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
 http://52.66.207.99/h.php?c=starbharat&e=.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_HD.png",Star Utsav0HD
-http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Star_Utsav_logo.png/220px-Star_Utsav_logo.png",Star Utsav
+https://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master.m3u8?faxs=1&hdnea=st=1582367542~exp=1582371142~acl=/*~hmac=cb2efde055a8f242e563c1226554f47b9984db89e8a451126b0f81f946192618
 
 
 #EXTINF:-1 tvg-id="Colors Rishtey" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey JTV HQ
