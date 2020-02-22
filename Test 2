@@ -120,7 +120,7 @@ http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8|user-
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Rishtey/Rishtey_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 #EXTINF:-1 tvg-id="Sony Pal" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal JTV HD
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pal/Sony_Pal_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?&__nn__=5606168722001&hdnea=st=1582363800~exp=1582367400~acl=/hls/live/2011741/SonyPalSD/*~hmac=ab33b2ce7de787c4d4afcafbe8674d87c2591eada1985a71263dce358b8dec9e
 
 #EXTINF:-1 tvg-id="Z Anmol" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol JTV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeeanmol/index.m3u8
