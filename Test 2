@@ -125,7 +125,7 @@ https://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master.m3u8?faxs=1&hd
 http://94.130.175.89:4545/ind2020/rishtaycineplex/chunks.m3u8?nimblesessionid=4032438&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDEwOjQ0OjQ2IEFNJmhhc2hfdmFsdWU9N05ibjZDRjExUjFCOU1sL2lBVGVYZz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-id="Sony Pal" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png",Sony Pal 
-https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?&__nn__=5606168722001&hdnea=st=1582369200~exp=1582372800~acl=/hls/live/2011741/SonyPalSD/*~hmac=4e522a4fc8936c15fb358b76516069618dd14329ca2e35ee0f9322d5784729d1
+https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/hdntl=exp=1582478180~acl=%2f*~data=hdntl~hmac=4936bc177fe8842bb644b260ca4fef954de1e0902b1c2a0fe7420710cf6f7e80/master_3500.m3u8
 
 #EXTINF:-1 tvg-id="Bhojpuri" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Bhojpuri_Cinema_logo.png", Bhojpuri Cinema
 http://94.130.175.89:4545/ind2020/bhojpuricine/chunks.m3u8?nimblesessionid=4044131&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDExOjIyOjUwIEFNJmhhc2hfdmFsdWU9dElpdndaQWJuWlBwOSs5d3AydUQvUT09JnZhbGlkbWludXRlcz0y
