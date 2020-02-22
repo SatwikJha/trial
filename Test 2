@@ -120,7 +120,7 @@ https://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master.m3u8?faxs=1&hd
 http://94.130.175.89:4545/ind2020/rishtaycineplex/chunks.m3u8?nimblesessionid=4032438&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDEwOjQ0OjQ2IEFNJmhhc2hfdmFsdWU9N05ibjZDRjExUjFCOU1sL2lBVGVYZz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-id="Sony Pal" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png",Sony Pal 
-https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?&__nn__=5606168722001&hdnea=st=1582363800~exp=1582367400~acl=/hls/live/2011741/SonyPalSD/*~hmac=ab33b2ce7de787c4d4afcafbe8674d87c2591eada1985a71263dce358b8dec9e
+https://sony247airteldai.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=st=1582369200~exp=1582369500~acl=*~hmac=6d7b6cbaab8b4ed4a86c22e12e2e25eec83f58f0985ceb07519bf3d7948c1166&originpath=/linear/hls/pb/event/rPzF28qORbKZkhci_04fdQ/stream/667e80f5-b924-422c-a006-f6cb4ba0ee9e:SIN/master.m3u8
 
 #EXTINF:-1 tvg-id="Z Anmol" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Zee-Anmol-Logo.jpg/220px-Zee-Anmol-Logo.jpg",Zee Anmol
 https://z5ams.akamaized.net/zeeanmol/index.m3u8?hdnts=st=1582365941~exp=1582368941~acl=/*~hmac=a6a0bee97b335c229cda051e3cd885f3560a84b7187fa3222e6e1184b387c058
