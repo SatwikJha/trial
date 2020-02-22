@@ -107,7 +107,7 @@ http://94.130.175.89:4545/ind2020/colorshd/chunks.m3u8?nimblesessionid=4014345&w
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Wah" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sonywah.jpg/60px-Sonywah.jpg",Sony Wah
-https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?&__nn__=5606168722001&hdnea=st=1582369200~exp=1582372800~acl=/hls/live/2011906/SonyWah/*~hmac=0c2f5e59a360ae8631bbe44bbecc459951664f69be66fd82f4cdda4cedf95517
+https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?&__nn__=5606168722001&hdnea=st=1582390800~exp=1582394400~acl=/hls/live/2011906/SonyWah/*~hmac=74389ac414631f44255c45959b1af81690ba92171f8381bfb3cc4d7c39399d15
 
 
 
