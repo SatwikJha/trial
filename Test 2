@@ -106,6 +106,11 @@ http://94.130.175.89:4545/ind2020/colorshd/chunks.m3u8?nimblesessionid=4014345&w
 #EXTINF:-1 tvg-id="AndtvHD" group-title="Hindi Entertainment" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png",&TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
+#EXTINF:-1 tvg-id="Sony Wah" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sonywah.jpg/60px-Sonywah.jpg",Sony Wah
+https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?&__nn__=5606168722001&hdnea=st=1582369200~exp=1582372800~acl=/hls/live/2011906/SonyWah/*~hmac=0c2f5e59a360ae8631bbe44bbecc459951664f69be66fd82f4cdda4cedf95517
+
+
+
 
 #EXTINF:-1 tvg-id="STAR PLUS HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Star_Plus_HD_2016.jpg/revision/latest?cb=20190810163335",Star Plus
 http://52.66.207.99/h.php?c=starplushd&e=.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
