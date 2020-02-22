@@ -176,7 +176,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 
 
 #EXTINF:-1 tvg-id="Times Now" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png",Times Now
-https://dai.google.com/linear/hls/pb/event/1mR1QUQ3Tg-VuKfiyjwNuA/stream/26092aea-2ffd-4fdb-91db-f7a6c6284fd2:SIN/master.m3u8
+http://94.130.175.89:4545/ind2020/timenow/chunks.m3u8?nimblesessionid=4050235&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDExOjQ0OjUxIEFNJmhhc2hfdmFsdWU9VTFqcHBlMC9JYUJ5TFo0Y0NkYTNjQT09JnZhbGlkbWludXRlcz0y
 
 
 
