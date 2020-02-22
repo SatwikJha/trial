@@ -127,7 +127,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeeanmol/index.m3u
 
 #EXTINF:-1 tvg-id="Arre" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png",Arre JTV HD
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Arre/Arre_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
-#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png",Epic
+#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/Epic_channel_logo1.png",Epic
 http://94.130.175.89:4545/ind2020/epic/chunks.m3u8?nimblesessionid=4026408&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDEwOjI0OjUxIEFNJmhhc2hfdmFsdWU9YVJNQ2kwMlZuNFo0cmFJR3dNVlFsZz09JnZhbGlkbWludXRlcz0y
 
 
