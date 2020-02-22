@@ -90,7 +90,7 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=158244400
 #EXTINF:-1 tvg-id="SET" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251",Sony Max HD
 http://94.130.175.89:4545/ind2020/sonymaxhd/chunks.m3u8?nimblesessionid=3985407&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDc6NTE6MjIgQU0maGFzaF92YWx1ZT1iVG9hSnpoTXUwZ0JxbWx0SVdaMUFBPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="Star Select" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707",Star Gold Select
+#EXTINF:-1 tvg-id="Select" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707",Star Gold Select
 QktUS2xxdmtzaUFJWm1nPT0mdmFsaWRtaW51dGVzPTI=http://94.130.175.89:4545/ind2020/stargoldselect/chunks.m3u8?nimblesessionid=4010171&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDk6Mjc6MjAgQU0maGFzaF92YWx1ZT03UzMvU3JCS3VyaXhFMnl2RVovamZnPT0mdmFsaWRtaW51dGVzPTI=
 
 
