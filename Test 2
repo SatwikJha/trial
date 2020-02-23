@@ -93,18 +93,24 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=15824
 #EXTINF:-1 tvg-id="Select" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707",Star Gold Select
 QktUS2xxdmtzaUFJWm1nPT0mdmFsaWRtaW51dGVzPTI=http://94.130.175.89:4545/ind2020/stargoldselect/chunks.m3u8?nimblesessionid=4010171&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDk6Mjc6MjAgQU0maGFzaF92YWx1ZT03UzMvU3JCS3VyaXhFMnl2RVovamZnPT0mdmFsaWRtaW51dGVzPTI=
 
+#EXTINF:-1 tvg-id="Sony Pal" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png",Sony Pal 
+https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/hdntl=exp=1582478180~acl=%2f*~data=hdntl~hmac=4936bc177fe8842bb644b260ca4fef954de1e0902b1c2a0fe7420710cf6f7e80/master_3500.m3u8
 
+#EXTINF:-1 tvg-id="AndtvHD" group-title="Hindi Entertainment" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png",&TV HD
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg/revision/latest/scale-to-width-down/284?cb=20190614102247",Sony SAB HD
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1582477798~acl=%2f*~data=hdntl~hmac=6c8877465deb1586744531bcbd17f358051d38a9779d1f4f91fd90cbd4bca446/master_3500.m3u8
 
+#EXTINF:-1 tvg-id="Sony Max 2" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/Sony_Max_2.svg/revision/latest/top-crop/width/220/height/220?cb=20200122044355",Sony Max 2
+http://94.130.175.89:4545/ind2020/sonymax2/chunks.m3u8?nimblesessionid=4411721&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDQ6MDM6MDkgQU0maGFzaF92YWx1ZT1LTlBERlFrTjJlWnltSTVwSkx0eXdRPT0mdmFsaWRtaW51dGVzPTI=
+
+
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/180px-Zee_TV-2018.png",Zee TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 tvg-id="Colors HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors HD
 http://94.130.175.89:4545/ind2020/colorshd/chunks.m3u8?nimblesessionid=4014345&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDk6NDI6NTIgQU0maGFzaF92YWx1ZT1MN2Vycm9wdTJReWI0R09GNHVSNXpnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 tvg-id="AndtvHD" group-title="Hindi Entertainment" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png",&TV HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Wah" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sonywah.jpg/60px-Sonywah.jpg",Sony Wah
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?&__nn__=5606168722001&hdnea=st=1582390800~exp=1582394400~acl=/hls/live/2011906/SonyWah/*~hmac=74389ac414631f44255c45959b1af81690ba92171f8381bfb3cc4d7c39399d15
@@ -124,9 +130,7 @@ https://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master.m3u8?faxs=1&hd
 #EXTINF:-1 tvg-id="Colors Rishtey" group-title="Hindi Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTo4umOfOk4R9pIoNeNLhvpiKAojCIz5rz0vqovIxh1ddFxIHiO",Rishtey Cineplex
 http://94.130.175.89:4545/ind2020/rishtaycineplex/chunks.m3u8?nimblesessionid=4032438&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDEwOjQ0OjQ2IEFNJmhhc2hfdmFsdWU9N05ibjZDRjExUjFCOU1sL2lBVGVYZz09JnZhbGlkbWludXRlcz0y
 
-#EXTINF:-1 tvg-id="Sony Pal" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png",Sony Pal 
-https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/hdntl=exp=1582478180~acl=%2f*~data=hdntl~hmac=4936bc177fe8842bb644b260ca4fef954de1e0902b1c2a0fe7420710cf6f7e80/master_3500.m3u8
-
+#
 #EXTINF:-1 tvg-id="Bhojpuri" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Bhojpuri_Cinema_logo.png", Bhojpuri Cinema
 http://94.130.175.89:4545/ind2020/bhojpuricine/chunks.m3u8?nimblesessionid=4044131&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDExOjIyOjUwIEFNJmhhc2hfdmFsdWU9dElpdndaQWJuWlBwOSs5d3AydUQvUT09JnZhbGlkbWludXRlcz0y
 
