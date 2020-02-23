@@ -110,7 +110,7 @@ http://94.130.175.89:4545/ind2020/sonymax2/chunks.m3u8?nimblesessionid=4411721&w
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/180px-Zee_TV-2018.png",Zee TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 tvg-id="Colors HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors HD
-http://94.130.175.89:4545/ind2020/colorshd/chunks.m3u8?nimblesessionid=4014345&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDk6NDI6NTIgQU0maGFzaF92YWx1ZT1MN2Vycm9wdTJReWI0R09GNHVSNXpnPT0mdmFsaWRtaW51dGVzPTI=
+http://94.130.175.89:4545/ind2020/colorshd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDU6MTc6MDkgQU0maGFzaF92YWx1ZT14Z1BNVk5QNzRSdlJPMGtIdnFHbzFnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="Sony Wah" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sonywah.jpg/60px-Sonywah.jpg",Sony Wah
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?&__nn__=5606168722001&hdnea=st=1582390800~exp=1582394400~acl=/hls/live/2011906/SonyWah/*~hmac=74389ac414631f44255c45959b1af81690ba92171f8381bfb3cc4d7c39399d15
