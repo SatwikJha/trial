@@ -86,7 +86,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif",Sony HD
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=1582532773~acl=%2f*~data=hdntl~hmac=754fb014fc7a54fd4a5e9df9480dfd7bb48cac52300ed1309da02a5b1fe93f7f/master_108.m3u8
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?__nn__=5606168722001&hdnea=st=1582446600~exp=1582450200~acl=/hls/live/2011671/*~hmac=50ffc7a938d66d4ad562ed6dcdf570959cbba8dc1f76d172bce2e275bef1baea
 #EXTINF:-1 tvg-id="Sony Max" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251",Sony Max HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1582450780~acl=%2f*~data=hdntl~hmac=8d7aee09cf3992b181fda1c78d50ad2208c503f84d86008a60bb587d5bdd0492/master_3500.m3u8
 
