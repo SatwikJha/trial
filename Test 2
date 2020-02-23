@@ -112,8 +112,8 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 tvg-id="Colors HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors HD
 http://94.130.175.89:4545/ind2020/colorshd/chunks.m3u8?nimblesessionid=4425954&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDU6MTc6MDkgQU0maGFzaF92YWx1ZT14Z1BNVk5QNzRSdlJPMGtIdnFHbzFnPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="Sony Wah" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sonywah.jpg/60px-Sonywah.jpg",Sony Wah
-https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?&__nn__=5606168722001&hdnea=st=1582390800~exp=1582394400~acl=/hls/live/2011906/SonyWah/*~hmac=74389ac414631f44255c45959b1af81690ba92171f8381bfb3cc4d7c39399d15
+#EXTINF:-1 tvg-id="Sony Mix" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/SET_Mix.png/revision/latest?cb=20110930222927",Sony Mix
+https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/hdntl=exp=1582529349~acl=%2f*~data=hdntl~hmac=2ba95ea5a182449f30165e5319277f0b78b2c0c8218beb080c6d2813745e18bb/master_3500.m3u8
 
 
 
