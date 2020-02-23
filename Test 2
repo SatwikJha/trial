@@ -88,7 +88,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif",Sony HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=1582551297~acl=%2f*~data=hdntl~hmac=f708d508e0347ebd38475f039e1ce8dff09453c506d28eb8342b952de2e10e0d/master_3500.m3u8
 #EXTINF:-1 tvg-id="Sony Max" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251",Sony Max HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1582450780~acl=%2f*~data=hdntl~hmac=8d7aee09cf3992b181fda1c78d50ad2208c503f84d86008a60bb587d5bdd0492/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1582551415~acl=%2f*~data=hdntl~hmac=02908c46ad68c63e0d9c0f72f2d72c76c753702633f9d143004064dd090989a2/master_3500.m3u8
 
 #EXTINF:-1 tvg-id="Select" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707",Star Gold Select
 QktUS2xxdmtzaUFJWm1nPT0mdmFsaWRtaW51dGVzPTI=http://94.130.175.89:4545/ind2020/stargoldselect/chunks.m3u8?nimblesessionid=4010171&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDk6Mjc6MjAgQU0maGFzaF92YWx1ZT03UzMvU3JCS3VyaXhFMnl2RVovamZnPT0mdmFsaWRtaW51dGVzPTI=
