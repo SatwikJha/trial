@@ -101,7 +101,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg/revision/latest/scale-to-width-down/284?cb=20190614102247",Sony SAB HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1582477798~acl=%2f*~data=hdntl~hmac=6c8877465deb1586744531bcbd17f358051d38a9779d1f4f91fd90cbd4bca446/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1582609655~acl=%2f*~data=hdntl~hmac=27e607bd7106fe315d45db1414accdf12fb7629097c928bc3b922812dcb45f9d/master_3500.m3u8
 
 #EXTINF:-1 tvg-id="Sony Max 2" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/Sony_Max_2.svg/revision/latest/top-crop/width/220/height/220?cb=20200122044355",Sony Max 2
 http://94.130.175.89:4545/ind2020/sonymax2/chunks.m3u8?nimblesessionid=4411721&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDQ6MDM6MDkgQU0maGFzaF92YWx1ZT1LTlBERlFrTjJlWnltSTVwSkx0eXdRPT0mdmFsaWRtaW51dGVzPTI=
