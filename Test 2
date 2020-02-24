@@ -91,7 +91,7 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=158255129
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1582551415~acl=%2f*~data=hdntl~hmac=02908c46ad68c63e0d9c0f72f2d72c76c753702633f9d143004064dd090989a2/master_3500.m3u8
 
 #EXTINF:-1 tvg-id="Select" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707",Star Gold Select
-QktUS2xxdmtzaUFJWm1nPT0mdmFsaWRtaW51dGVzPTI=http://94.130.175.89:4545/ind2020/stargoldselect/chunks.m3u8?nimblesessionid=4010171&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDk6Mjc6MjAgQU0maGFzaF92YWx1ZT03UzMvU3JCS3VyaXhFMnl2RVovamZnPT0mdmFsaWRtaW51dGVzPTI=
+http://94.130.175.89:4545/ind2020/stargoldselect/chunks.m3u8?nimblesessionid=4010171&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDk6Mjc6MjAgQU0maGFzaF92YWx1ZT03UzMvU3JCS3VyaXhFMnl2RVovamZnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="Sony Pal" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png",Sony Pal 
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/hdntl=exp=1582478180~acl=%2f*~data=hdntl~hmac=4936bc177fe8842bb644b260ca4fef954de1e0902b1c2a0fe7420710cf6f7e80/master_3500.m3u8
