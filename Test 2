@@ -218,7 +218,7 @@ https://sonyvidgyor.akamaized.net/hls/live/2004796/INDIATODAYEVENT/INDIATODAY_7/
 https://stream2.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=1582030800_8fbe9018e985771600a06beb13aaa6a7
 
 
-#EXTINF:-1 tvg-id="DD Bihar" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/DDBiharLogo.jpg/195px-DDBiharLogo.jpg",DD Bihar
+#EXTINF:-1 tvg-id="DD Bihar" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DD_News_Logo_2015.jpg/280px-DD_News_Logo_2015.jpg",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 
 
