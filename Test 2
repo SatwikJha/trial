@@ -194,7 +194,7 @@ https://repblicwld.s.llnwi.net/liveorigin/republictv/masterlive_360p.m3u8
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_2.m3u8
 
 #EXTINF:-1 tvg-id="Zee News" group-title="News" tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/half/public/2019/01/04/773839-zee-news-logo.jpg",Zee News
-https://z5ams.akamaized.net/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/exp=1582704830~acl=%2f*~data=hdntl~hmac=ca7de91484c5d395e9cdb92e7457a4fadc2fdd4de4e014dc5825bfd18d559935/index_21.m3u8
+https://z5ams.akamaized.net/zeenews/index.m3u8?hdnts=st=1582690116~exp=1582693116~acl=/*~hmac=ae22a1a7ace4ca7ec347f637d0ed8c1eb344299ebe9a5c3e90cf9d1e2d4d6ec9
 
 
 #EXTINF:-1 tvg-id="EPG N/A" group-title="News" tvg-logo="https://2llos6vjz1k3skmx03njbqdc-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/LOGO_png.png",Janta TV
