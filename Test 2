@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
+#EXTM3U x-tvg-url="http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/India/jio.com.channels.xml"
 
 #EXTINF:-1 tvg-id="Marvel Movies" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marvel-tv-logo.svg/440px-Marvel-tv-logo.svg.png",Marvel Movies
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
