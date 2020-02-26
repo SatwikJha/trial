@@ -174,7 +174,7 @@ https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklis
 
 
 
-#EXTINF:-1 tvg-id="ABP News" group-title="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/ABPNews_2016.jpg",ABP Hindi
+#EXTINF:-1 tvg-id="ABP News" group-title="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/ABPNews_2016.jpg",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
 #EXTINF:-1 tvg-id="NDTV India" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png",NDTV India
