@@ -318,8 +318,9 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_ESPN_HD/Sony
 #EXTINF:-1 tvg-id="Geo News" group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png",Geo News
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Abb Tak" group-title="Pakistan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak_news_logo.png,Abb Tak
-https://cdn10.mjunoon.tv:8087/web/AbbTakNews-133/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIwIDY6NTY6NDAgQU0maGFzaF92YWx1ZT0ra0dFV3pNYnNuRDg4d3ErdjJTUDR3PT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" group-title="Pakistan",Geo TV
+http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-id="APlus" group-title="Pakistan" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/a_plus.jpg",A Plus
