@@ -47,7 +47,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
 #EXTINF:-1 tvg-id="Movies OK" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Movies_OK_Logo.jpg/220px-Movies_OK_Logo.jpg",Movies OK
 http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 #EXTINF:-1 tvg-id="Star Gold" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg",Star Gold
-http://163.172.223.102:8081/ind1live/stargold/chunks.m3u8?nimblesessionid=2558587&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIwIDI6NTg6NTUgUE0maGFzaF92YWx1ZT0vVlErd0ZscEpkQ2IrRjQxbU9GZld3PT0mdmFsaWRtaW51dGVzPTI=
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Vh1" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png",Vh1 music
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49580
