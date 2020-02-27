@@ -233,7 +233,7 @@ https://sonyvidgyor.akamaized.net/hls/live/2004796/INDIATODAYEVENT/INDIATODAY_7/
 #EXTINF:-1 tvg-id="IBC News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Ibc24_logo.jpeg",IBC24 Chattisgarh&MP
 https://stream2.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=1582030800_8fbe9018e985771600a06beb13aaa6a7
 
-#EXTINF:-1 tvg-id="Zee' group-title="News" tvg-logo="#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true",Zee Hindustan
+#EXTINF:-1 tvg-id="Zee' group-title="News" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true",Zee Hindustan
 http://zee18.site/zee/get.php?channel=hindustan
 
 
