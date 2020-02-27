@@ -76,16 +76,6 @@ http://aiplex.skytv.website/live/gee/zee.m3u8?c=andxplore&oauth=c3Q9MTU4MTM5ODIy
 #EXTINF:-1 tvg-id="Mtv beats" group-title="Hindi Music" tvg-logo="https://www.satlogo.com/hires/mm/mtv_beats_in.png",MTV beats
 http://89.187.191.77:25461/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/72215?token=H0BdAEBeQA0WXAJQBwIBAFcGBwEHVVILBAUFBwZUB1QBAQEHBVcGVg0aHkNDRkoEVw9tDVJBXA4GBgZXGBBFFwEQaghXFFgVDAECUQMLGk0UFlsJU0FcCAEDDlYABQlTV04XEVpSQA0WCgBQBwUJQxpAVxxCBhRXVVhoBlFEWQcBQA8PRloOGxZXXD5UV1UAWAYQXhRTRBUWXUQSFgheEQgOGUNRXxZFVUxXQwoQClgOVhBIFAAJTFpARRsWCBItKkAZQ1ZOFlJaS1sOXhACQ0IREEgUChVmRlFEFkZXUQkBEBdbEQZAGxZVUxlvUVcPWAdREF8MCEoWDhVTFh4SCQsMXBVcRD1HXVwQWxIEDFQFWhAZ"
 
-#EXTINF:-1, group-title="HINDI", MBC BOLLYWOOD
-http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1, group-title="HINDI", BOLLYWOOD CLASSIC
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1, group-title="HINDI", ENTER 10
-http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
-#EXTINF:-1, group-title="HINDI",AND PICTURES HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:-1 group-title="HINDI", And TV
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif",Sony HD
@@ -95,44 +85,55 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=158279844
 http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/72146 
 
 
-
-
 #EXTINF:-1 tvg-id="Sony Max" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251",Sony Max HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1582551415~acl=%2f*~data=hdntl~hmac=02908c46ad68c63e0d9c0f72f2d72c76c753702633f9d143004064dd090989a2/master_3500.m3u8
 
-#EXTINF:-1 tvg-id="Select" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707",Star Gold Select
-http://zer0live.hjkm.info:13292/juno/stargoldselect/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIwIDEwOjU4OjM0IEFNJmhhc2hfdmFsdWU9L3FxU3YwblJHMmVkY29PUmhpYmZrQT09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1 tvg-id="Sony Pal" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png",Sony Pal 
-https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/hdntl=exp=1582478180~acl=%2f*~data=hdntl~hmac=4936bc177fe8842bb644b260ca4fef954de1e0902b1c2a0fe7420710cf6f7e80/master_3500.m3u8
-
-#EXTINF:-1 tvg-id="AndtvHD" group-title="Hindi Entertainment" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png",&TV HD
+EXTINF:-1 tvg-id="AndtvHD" group-title="Hindi Entertainment" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png",&TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
-#EXTINF:1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="Entertainment",And TV HD
-http://zee18.site/zee/get.php?channel=andtvhd
+#EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="Entertainment",And TV HD
+http://zee18.site/zee/get.php?channel=Andtv HD
+
+
+#EXTINF:-1 tvg-id="Colors HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg/revision/latest/scale-to-width-down/284?cb=20190614102247",Sony SAB HD
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony Max 2" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/Sony_Max_2.svg/revision/latest/top-crop/width/220/height/220?cb=20200122044355",Sony Max 2
-http://94.130.175.89:4545/ind2020/sonymax2/chunks.m3u8?nimblesessionid=4411721&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDQ6MDM6MDkgQU0maGFzaF92YWx1ZT1LTlBERlFrTjJlWnltSTVwSkx0eXdRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="STAR PLUS HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Star_Plus_HD_2016.jpg/revision/latest?cb=20190810163335",Star Plus HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/180px-Zee_TV-2018.png",Zee TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
-#EXTINF:-1 tvg-id="Colors HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",Colors HD
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Select" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707",Star Gold Select
+http://zer0live.hjkm.info:13292/juno/stargoldselect/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIwIDEwOjU4OjM0IEFNJmhhc2hfdmFsdWU9L3FxU3YwblJHMmVkY29PUmhpYmZrQT09JnZhbGlkbWludXRlcz0y
+
+
+
+#EXTINF:-1 tvg-id="Sony Pal" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png",Sony Pal 
+https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/hdntl=exp=1582478180~acl=%2f*~data=hdntl~hmac=4936bc177fe8842bb644b260ca4fef954de1e0902b1c2a0fe7420710cf6f7e80/master_3500.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="Sony Max 2" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/Sony_Max_2.svg/revision/latest/top-crop/width/220/height/220?cb=20200122044355",Sony Max 2
+http://94.130.175.89:4545/ind2020/sonymax2/chunks.m3u8?nimblesessionid=4411721&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDQ6MDM6MDkgQU0maGFzaF92YWx1ZT1LTlBERlFrTjJlWnltSTVwSkx0eXdRPT0mdmFsaWRtaW51dGVzPTI=
+
+
+
 
 #EXTINF:-1 tvg-id="Sony Mix" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/SET_Mix.png/revision/latest?cb=20110930222927",Sony Mix
 https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/hdntl=exp=1582529349~acl=%2f*~data=hdntl~hmac=2ba95ea5a182449f30165e5319277f0b78b2c0c8218beb080c6d2813745e18bb/master_3500.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="STAR PLUS HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Star_Plus_HD_2016.jpg/revision/latest?cb=20190810163335",Star Plus HD
-https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="STAR BHARAT" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Star_Bharat_Official_Logo.jpg/220px-Star_Bharat_Official_Logo.jpg",Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
