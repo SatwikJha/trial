@@ -230,8 +230,6 @@ https://stream2.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=1582030800_8
 http://zee18.site/zee/get.php?channel=hindustan
 
 
-
-
 #EXTINF:-1 tvg-id="DD Bihar" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DD_News_Logo_2015.jpg/280px-DD_News_Logo_2015.jpg",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 
@@ -330,6 +328,186 @@ http://103.68.116.50/live/feed1002/index.m3u8
 
 #EXTINF:1 tvg-logo="" group-title="Sports",Sky Sports Cricket
 http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
+
+
+#EXTINF:1 tvg-logo="http://memestamil.com/hindifm/img/radiocity.png" group-title="Radio",Radio City
+http://prclive1.listenon.in:9960/
+
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/red-fm15.jpg" group-title="Radio",Red 93.5 FM
+http://prclive1.listenon.in:8808/
+
+#EXTINF:1 tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/desi-music-mix-india.png" group-title="Radio",Desi Music Mix India
+http://66.23.234.242:8012/
+
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/retrohindi.png" group-title="Radio",Purani Jeans
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8
+
+#EXTINF:1 tvg-logo="https://images.sportsflashes.com/1549545514-sflogo.png" group-title="Radio",Hindi Cricket
+https://securestreams2.autopo.st:1079/sportsflashes_cricket
+
+#EXTINF:1 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/zabardast-hit95fm-logo.png" group-title="Radio",Hit 95 FM
+http://50.7.77.115:8174/;?type=.mp3/;stream.mp3
+
+#EXTINF:1 tvg-logo="https://i.ebayimg.com/images/g/p8AAAOSws65TozqX/s-l300.jpg" group-title="english movie",Radio Love Guru
+https://prclive4.listenon.in/Ishq
+
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bongonet.png" group-title="Radio",RHI
+http://radio.bongonet.net:8012/rhi
+
+#EXTINF:1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/lhwpswmyudvr.png" group-title="Radio",Shemaroo Bhakti	
+https://radiobhakti.shemaroo.com/hariomradio/Stream1_aac/chunklist_w324991546.m3u8
+
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ciberfmindia.png" group-title="Radio",CyberFM India	
+http://node-23.zeno.fm/uqxv1xvuzrquv.aac?rj-ttl=5&rj-tok=AAABboRtn2MAagx_n7kB50VPKA
+
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/abeeradio.png" group-title="Radio",Abee radio	
+https://abee.radioca.st/stream
+
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radio-selfie.png" group-title="radio",Radio Selfie
+https://streams.radio.co/s69032f19e/listen
+
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bollywood-punjabi-radio-logo.png" group-title="Radio",Bollywood Punjabi Radio
+http://node-18.zeno.fm/1k0y9f0cm0quv?rj-ttl=5&rj-tok=AAABboRo2dYAx9HyD1m-UZeG3w
+
+#EXTINF:1 tvg-logo="http://www.5riversradio.com/images/sukhdev.jpg" group-title="Radio",5 rivers radio
+http://188.165.240.90:9510/;stream/1 
+
+#EXTINF:1 tvg-logo="http://www.desimixradio.com/wp-content/uploads/2018/12/desimix-isolated-logo-ver2.png" group-title="Radio",Desi Music Mix!
+http://66.23.234.242:8012/;stream/1
+
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/8/75998.v4.png" group-title="Radio",Sitara FM
+http://server-25.stream-server.nl:8348/stream
+
+#EXTINF:1 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/jazbaa-fm-hindi-radio.jpg" group-title="Radio",Jazbaa FM
+https://stream.radio.co/s0e4cf6d8e/listen
+
+#EXTINF:1 tvg-logo="https://cdn.webrad.io/images/logos/radio-org-nz/tarana.png" group-title="radio",Radio Tarana 
+http://peridot.streamguys.com:7150/Tarana.aac
+
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1024400715895136256/ya7ODreI_400x400.jpg" group-title="Radio",HUMM FM
+https://cp12.serverse.com/proxy/hummfm?mp=/live
+
+#EXTINF:1 tvg-logo="https://d368qv66y0shpj.cloudfront.net/featured_content/347160f7c385ec130ac12c4f6c107216_200x200.jpg" group-title="Radio",Hungama Dil Se
+http://103.16.47.70:7333/;stream.nsv
+
+#EXTINF:1 tvg-logo="https://d368qv66y0shpj.cloudfront.net/featured_content/946f1eeebc4ae350cd011b5e65ba6a92_200x200.jpg" group-title="Radio",Hungama Classical
+http://103.16.47.70:9999/;stream.nsv
+
+#EXTINF:1 tvg-logo="https://d368qv66y0shpj.cloudfront.net/featured_content/9db33d20bf6eb622b88ac5240031a5a0_200x200.jpg" group-title="Radio",Hungama Dance Mast
+http://103.16.47.70:9222/;stream.nsv
+
+#EXTINF:1 tvg-logo="https://d368qv66y0shpj.cloudfront.net/featured_content/87e13ac99d76ef735f9b00db46606f4b_200x200.jpg" group-title="Radio",Hungama Evergreen
+http://103.16.47.70:7666/;stream.nsv
+
+#EXTINF:1 tvg-logo="https://d368qv66y0shpj.cloudfront.net/featured_content/65e8fb1f34672cc1cff6753087450bb9_200x200.jpg" group-title="Radio",Hungama Hot Now
+http://103.16.47.70:7222/;stream.nsv
+
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/shiva.png" group-title="Radio",Bhakti World - Shiva
+http://hot.out.airtime.pro:8000/hot_a
+
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/hanuman.jpg" group-title="Radio",Bhakti World - Hanuman
+http://2bhanuman.out.airtime.pro:8000/2bhanuman_a
+
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/ganesha.jpg" group-title="Radio",Bhakti World - Ganesh 
+http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
+
+#EXTINF:1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/8/79898.v1.png" group-title="Radio",Bhakti World
+http://ibadat.out.airtime.pro:8000/ibadat_a
+
+#EXTINF:1 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/radio-azard-fm.jpg" group-title="Radio",Radioazad FM
+http://162.244.80.30:8234/;stream.mp3
+
+#EXTINF:1 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/hungama-90s-super-hits.jpg" group-title="Radio",Hungama 90s SuperHits
+http://103.16.47.70:7444/;stream.mp3
+
+#EXTINF:1 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/arijit-singh-radio.jpg" group-title="Radio",ARIJIT SINGH RADIO
+http://southradios.net:9090/arijitsinghradio
+
+#EXTINF:1 tvg-logo="https://radiosindia.com/images/arrahman.jpg" group-title=Rradio",AR Rahman Radio
+http://southradios.net:9090/arrahmanhindiradio
+
+#EXTINF:1 tvg-logo="https://radiosindia.com/images/fnffm.jpg" group-title="Radio",FNF FM
+http://192.99.8.192:5032/stream
+
+#EXTINF:1 tvg-logo="https://radiosindia.com/images/bestofindiepopradio.jpg" group-title="Radio",Indie Pop Bollywood
+http://103.16.47.70:7111/;stream.mp3
+
+#EXTINF:1 tvg-logo="https://radiosindia.com/images/bestofghazals.jpg" group-title=Rradio",Ghazals Hindi
+http://103.16.47.70:9777/;stream.mp3
+
+#EXTINF:0 tvg-logo="https://radiosindia.com/images/radios1dhamaka.jpg" group-title="Radio",S1 Dhamaka Hindi
+http://162.244.81.30:8050/
+
+#EXTINF:1 tvg-logo="https://radiosindia.com/images/bwclassics.jpg" group-title="Radio",b & w classics Bollywood
+http://103.16.47.70:7888/
+
+
+#EXTINF:1 tvg-logo="https://radiosindia.com/images/60sforever.jpg" group-title="Radio",60s forever Bollywood
+http://103.16.47.70:6222/
+
+#EXTINF:1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/fb/bd/56/fbbd56ba-76c0-b1ac-073a-68556d08dd28/source/512x512bb.jpg" group-title="Radio",Hindi Music Radio
+http://5.196.56.208:8308/;stream/1
+
+#EXTINF:1 tvg-logo="https://radiosindia.com/images/nukehindioldhits.jpg" group-title="Radio",Nuke Hindi
+http://live.nukeradio.com:8016/stream3
+
+#EXTINF:1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/3777.png" group-title="Radio",Sada Bahar
+http://192.240.102.133:8512/stream/
+
+#EXTINF:1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/3776.v1.png" group-title="Radio",Bollywood Evergreen
+http://192.240.102.133:11454/stream
+
+#EXTINF:1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/3/29303.png" group-title="Radio",iWiFM
+http://s2.myradiostream.com:29270/
+
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radiomastana.jpg" group-title="Radio",Radio Mastana
+http://radiomastanaaustralia.serverroom.net:9170/;stream.mp3
+
+#EXTINF:1 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/mashup-102-radio.jpg" group-title="Radio",Mashup102 Radio
+http://163.172.213.155:8010/stream
+
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/RadioJSR.png" group-title="Radio",JSR Radio
+http://198.7.59.28:8078/stream/1/
+
+#EXTINF:1 tvg-logo="http://marci1683.marci.io/img/albums/cache/custom_skin_3_Meet%20Bros%20Anjjan%20and%20Kanika%20Kapoor%7C%7CChittiyaan%20Kalaiyaan%20(From%20Roy%20).jpg" group-title="Radio",spiceradio.ca
+http://149.56.147.197:9091/
+
+#EXTINF:1 tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/indifun-radio.png" group-title="Radio",Indifun Radio
+http://indifun.net:7000/
+
+#EXTINF:1 tvg-logo="http://memestamil.com/hindifm/img/suno1024fm.jpg" group-title="Radio",Suno 1024 FM
+http://50.7.71.27:9693/
+
+#EXTINF:1 tvg-logo="http://static.radio.net/images/broadcasts/51/c7/23196/c175.png" group-title="Radio",Aakashvani Hindi FM
+http://media.guardian.co.tt:8000/aakashvaniradio
+
+#EXTINF:1 tvg-logo="http://memestamil.com/hindifm/img/FMGold.jpg" group-title="Radio",Air FM GOLD
+http://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/index_1_a-p.m3u8
+
+#EXTINF:1 tvg-logo="http://memestamil.com/hindifm/img/air-vividh-bharati.png" group-title="Radio",Air Vividh Bharati
+http://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/index_1_a-p.m3u8
+
+#EXTINF:1 tvg-logo="http://memestamil.com/hindifm/img/ujala-radio.png" group-title="Radio",Ujala Radio
+http://stream2.ujala.nl/stream/2/listen.mp3
+
+#EXTINF:1 tvg-logo="http://memestamil.com/hindifm/img/radiomirchi.jpg" group-title="Radio",Radio Mirchi
+http://peridot.streamguys.com:7150/Mirchi
+
+
+#EXTINF:1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/radios-100px/p4rnyz9bx5k5.png" group-title="Radio",Radio zindagi
+http://76.164.217.100:7092/;stream.mp3
+
+#EXTINF:1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/r5ljgezveaxu.png" group-title="Radio",HID Radi
+http://hidradio.live-streams.nl/live
+
+#EXTINF:1 tvg-logo="https://onlineradiofm.in/assets/image/radio/180/Radio%20Noida.jpg" group-title="Radio",Radio Noida
+http://180.151.226.202:8000/
+
+#EXTINF:1 tvg-logo="https://radiosindia.com/images/bollyhits.jpg" group-title="Radio",Bolly Hits
+http://176.31.107.8:8172/stream
+
+#EXTINF:1 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/radio-namkin-ek-dumm-zabardast-fm.jpg" group-title="radio",Namkin Radio
+http://69.64.61.173:8057/;stream.mp3
 
 
 
