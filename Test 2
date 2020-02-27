@@ -120,7 +120,8 @@ https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/hdntl=exp=15825
 
 
 #EXTINF:-1 tvg-id="STAR PLUS HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Star_Plus_HD_2016.jpg/revision/latest?cb=20190810163335",Star Plus
-http://52.66.207.99/h.php?c=starplushd&e=.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+http://www.sansat.net:25461/MBGbJTVsytIhBxO/KmMKqyGcMHg1rgS/53851
+
 #EXTINF:-1 tvg-id="STAR BHARAT HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Star_Bharat_Official_Logo.jpg/220px-Star_Bharat_Official_Logo.jpg",Star Bharat HD
 http://52.66.207.99/h.php?c=starbharat&e=.m3u8
 
