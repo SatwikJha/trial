@@ -363,7 +363,7 @@ http://node-23.zeno.fm/uqxv1xvuzrquv.aac?rj-ttl=5&rj-tok=AAABboRtn2MAagx_n7kB50V
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/abeeradio.png" group-title="Radio",Abee radio	
 https://abee.radioca.st/stream
 
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radio-selfie.png" group-title="radio",Radio Selfie
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/radio-selfie.png" group-title="Radio",Radio Selfie
 https://streams.radio.co/s69032f19e/listen
 
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/gautam4you/popopipi/master/pic/bollywood-punjabi-radio-logo.png" group-title="Radio",Bollywood Punjabi Radio
@@ -423,7 +423,7 @@ http://103.16.47.70:7444/;stream.mp3
 #EXTINF:1 tvg-logo="https://cdn.onlineradios.net/hindiradios/assets/img/radio-logos/arijit-singh-radio.jpg" group-title="Radio",ARIJIT SINGH RADIO
 http://southradios.net:9090/arijitsinghradio
 
-#EXTINF:1 tvg-logo="https://radiosindia.com/images/arrahman.jpg" group-title=Rradio",AR Rahman Radio
+#EXTINF:1 tvg-logo="https://radiosindia.com/images/arrahman.jpg" group-title=Radio",AR Rahman Radio
 http://southradios.net:9090/arrahmanhindiradio
 
 #EXTINF:1 tvg-logo="https://radiosindia.com/images/fnffm.jpg" group-title="Radio",FNF FM
@@ -432,7 +432,7 @@ http://192.99.8.192:5032/stream
 #EXTINF:1 tvg-logo="https://radiosindia.com/images/bestofindiepopradio.jpg" group-title="Radio",Indie Pop Bollywood
 http://103.16.47.70:7111/;stream.mp3
 
-#EXTINF:1 tvg-logo="https://radiosindia.com/images/bestofghazals.jpg" group-title=Rradio",Ghazals Hindi
+#EXTINF:1 tvg-logo="https://radiosindia.com/images/bestofghazals.jpg" group-title=Radio",Ghazals Hindi
 http://103.16.47.70:9777/;stream.mp3
 
 #EXTINF:0 tvg-logo="https://radiosindia.com/images/radios1dhamaka.jpg" group-title="Radio",S1 Dhamaka Hindi
