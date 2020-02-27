@@ -1,4 +1,30 @@
 #EXT3MU 
+#EXTINF:-1 tvg-id="HBO 2" group-title="Movies" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo2.png",HBO 2
+http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/987.m3u8
+#EXTINF:-1 tvg-id="WB" group-title="Movies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/turner-wb-logo.jpg",WB
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49581
+#EXTINF:-1 tvg-id="UTV Action" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png",UTV Action
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43939
+#EXTINF:-1 tvg-id="UTV HD" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg/revision/latest/scale-to-width-down/340?cb=20181021120741",UTV HD
+http://89.187.191.77:25461/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/72240?token=H0BdAEBeQA0WCQNVBwpbVQRbU1wGVlRdBVEDVQQBCQFcUVFWUgEGBgYaHkNDRkoEVw9tDVJBXA4GBgNSGBBFFwEQaghXFFgVDAECUQMLGk0UFlsJU0FcCAEDD1cDCglVV04XEVpSQA0WCgdRBQEIQxpAVxxCBhRXVVhoBlFEWQcBQA8PRloOGxZXXD5UV1UAWAYQXhRTRBUWXUQSFgheEQgOGUNRXxZFVUxXQwoQClkBVhBIFAAJTFpARRsWCBItKkAZQ1ZOFlJaS1sOXhACQ0IREEgUChVmRlFEFkZXUQkBEBdbEQZAGxZVUxlvUVcPWAdREF8MCEoWDhVTFh4SCQsMXBVcRD1HXVwQWxIADlAHURAZ"
+#EXTINF:-1 tvg-id="Movies NOW 4k" group-title="Movies" tvg-logo="https://spng.pngfly.com/20180530/tw/kisspng-movies-now-high-definition-television-television-c-5b0e4965ebeac1.4437407815276629499663.jpg",Movies Now 4k
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49562
+#EXTINF:-1 tvg-id="MOVIES NOW" group-title="Movies" tvg-logo="https://spng.pngfly.com/20180530/tw/kisspng-movies-now-high-definition-television-television-c-5b0e4965ebeac1.4437407815276629499663.jpg", MOVIES NOW
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1 tvg-id="&PictureHD" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest/scale-to-width-down/340?cb=20190626075812",&PictureHD
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
+#EXTINF:-1 tvg-id="Zee Cinema" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Zee_Cinema_New_Logo.png/200px-Zee_Cinema_New_Logo.png",Zee Cinema HD
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
+#EXTINF:-1 tvg-id="Zee Bollywood" group-title="Movies" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg",Zee Bollywood
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
+#EXTINF:-1 tvg-id="Zee Action" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest/scale-to-width-down/340?cb=20200113074207",Zee Action
+http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
+#EXTINF:-1 tvg-id="Movies OK" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Movies_OK_Logo.jpg/220px-Movies_OK_Logo.jpg",Movies OK
+http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+#EXTINF:-1 tvg-id="Star Gold" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg",Star Gold
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
+
 #EXTINF:-1 tvg-id="Marvel Movies" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marvel-tv-logo.svg/440px-Marvel-tv-logo.svg.png",Marvel Movies
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="Blockbuster" group-title="Movies" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png",Blockbuster
@@ -24,30 +50,7 @@ http://103.118.76.229:1935/tvprogram/HBO/chunklist_w1104723003.m3u8
 #EXTINF:-1 tvg-id="HBO HD" group-title="Movies" tvg-logo="https://www-indiantelevision-com.cdn.ampproject.org/ii/w1200/s/www.indiantelevision.com/sites/default/files/images/tv-images/2018/01/29/hbo.jpg",HBO HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49557
 
-#EXTINF:-1 tvg-id="HBO 2" group-title="Movies" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo2.png",HBO 2
-http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/987.m3u8
-#EXTINF:-1 tvg-id="WB" group-title="Movies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/turner-wb-logo.jpg",WB
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49581
-#EXTINF:-1 tvg-id="UTV Action" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png",UTV Action
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43939
-#EXTINF:-1 tvg-id="UTV HD" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg/revision/latest/scale-to-width-down/340?cb=20181021120741",UTV HD
-http://89.187.191.77:25461/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/72240?token=H0BdAEBeQA0WCQNVBwpbVQRbU1wGVlRdBVEDVQQBCQFcUVFWUgEGBgYaHkNDRkoEVw9tDVJBXA4GBgNSGBBFFwEQaghXFFgVDAECUQMLGk0UFlsJU0FcCAEDD1cDCglVV04XEVpSQA0WCgdRBQEIQxpAVxxCBhRXVVhoBlFEWQcBQA8PRloOGxZXXD5UV1UAWAYQXhRTRBUWXUQSFgheEQgOGUNRXxZFVUxXQwoQClkBVhBIFAAJTFpARRsWCBItKkAZQ1ZOFlJaS1sOXhACQ0IREEgUChVmRlFEFkZXUQkBEBdbEQZAGxZVUxlvUVcPWAdREF8MCEoWDhVTFh4SCQsMXBVcRD1HXVwQWxIADlAHURAZ"
-#EXTINF:-1 tvg-id="Movies NOW 4k" group-title="Movies" tvg-logo="https://spng.pngfly.com/20180530/tw/kisspng-movies-now-high-definition-television-television-c-5b0e4965ebeac1.4437407815276629499663.jpg",Movies Now 4k
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49562
-#EXTINF:-1 tvg-id="MOVIES NOW" group-title="Movies" tvg-logo="https://spng.pngfly.com/20180530/tw/kisspng-movies-now-high-definition-television-television-c-5b0e4965ebeac1.4437407815276629499663.jpg", MOVIES NOW
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg-id="&PictureHD" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest/scale-to-width-down/340?cb=20190626075812",&PictureHD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:-1 tvg-id="Zee Cinema" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Zee_Cinema_New_Logo.png/200px-Zee_Cinema_New_Logo.png",Zee Cinema HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
-#EXTINF:-1 tvg-id="Zee Bollywood" group-title="Movies" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg",Zee Bollywood
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
-#EXTINF:-1 tvg-id="Zee Action" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest/scale-to-width-down/340?cb=20200113074207",Zee Action
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
-#EXTINF:-1 tvg-id="Movies OK" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Movies_OK_Logo.jpg/220px-Movies_OK_Logo.jpg",Movies OK
-http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 tvg-id="Star Gold" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg",Star Gold
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="Vh1" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png",Vh1 music
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49580
