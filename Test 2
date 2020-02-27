@@ -109,9 +109,12 @@ https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/hdntl=exp=15824
 #EXTINF:-1 tvg-id="AndtvHD" group-title="Hindi Entertainment" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png",&TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 
+#EXTINF:1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="Entertainment",And TV HD
+http://zee18.site/zee/get.php?channel=andtvhd
+
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg/revision/latest/scale-to-width-down/284?cb=20190614102247",Sony SAB HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1582609655~acl=%2f*~data=hdntl~hmac=27e607bd7106fe315d45db1414accdf12fb7629097c928bc3b922812dcb45f9d/master_3500.m3u8
+https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Max 2" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/Sony_Max_2.svg/revision/latest/top-crop/width/220/height/220?cb=20200122044355",Sony Max 2
 http://94.130.175.89:4545/ind2020/sonymax2/chunks.m3u8?nimblesessionid=4411721&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDQ6MDM6MDkgQU0maGFzaF92YWx1ZT1LTlBERlFrTjJlWnltSTVwSkx0eXdRPT0mdmFsaWRtaW51dGVzPTI=
@@ -128,11 +131,11 @@ https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/hdntl=exp=15825
 
 
 
-#EXTINF:-1 tvg-id="STAR PLUS HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Star_Plus_HD_2016.jpg/revision/latest?cb=20190810163335",Star Plus
+#EXTINF:-1 tvg-id="STAR PLUS HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Star_Plus_HD_2016.jpg/revision/latest?cb=20190810163335",Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-id="STAR BHARAT HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Star_Bharat_Official_Logo.jpg/220px-Star_Bharat_Official_Logo.jpg",Star Bharat HD
-http://52.66.207.99/h.php?c=starbharat&e=.m3u8
+#EXTINF:-1 tvg-id="STAR BHARAT" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Star_Bharat_Official_Logo.jpg/220px-Star_Bharat_Official_Logo.jpg",Star Bharat
+https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Star_Utsav_logo.png/220px-Star_Utsav_logo.png",Star Utsav
 https://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master.m3u8?faxs=1&hdnea=st=1582367542~exp=1582371142~acl=/*~hmac=cb2efde055a8f242e563c1226554f47b9984db89e8a451126b0f81f946192618
@@ -147,7 +150,7 @@ http://94.130.175.89:4545/ind2020/bhojpuricine/chunks.m3u8?nimblesessionid=40441
 
 
 #EXTINF:-1 tvg-id="Z Anmol" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Zee-Anmol-Logo.jpg/220px-Zee-Anmol-Logo.jpg",Zee Anmol
-https://z5ams.akamaized.net/zeeanmol/index.m3u8?hdnts=st=1582391030~exp=1582394030~acl=/*~hmac=47e9a74b6d90c3c4235b0d5a5367b02201c341d1a3b7899dcd10215a7d92bbac
+http://zee18.site/zee/get.php?channel=zeeanmol
 
 
 
