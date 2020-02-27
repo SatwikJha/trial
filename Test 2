@@ -30,7 +30,7 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 #EXTINF:-1 tvg-id="Blockbuster" group-title="Movies" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png",Blockbuster
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="SONY MAX HD" group-title="Movies" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_298/PORTRAIT/Lad3I4Yq.png?o=production",Sony Max HD
-https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?&__nn__=5606168722001&hdnea=st=1582795800~exp=1582799400~acl=/hls/live/2011670/SonyMaxhd/*~hmac=7214539794a089be828cb771048e81905ecf9f6df73c0f5a052e9603df3774e5
 
 #EXTINF:-1 tvg-id="SONY PIX HD" group-title="Movies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",Sony Pix HD
 https://sony247channels.akamaized.net/hls/live/2009804/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1575646200_e09258cce6514d3deec5608118efddc9"
@@ -87,7 +87,7 @@ http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/72146
 
 
 #EXTINF:-1 tvg-id="Sony Max" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251",Sony Max HD
-https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?&__nn__=5606168722001&hdnea=st=1582795800~exp=1582799400~acl=/hls/live/2011670/SonyMaxhd/*~hmac=7214539794a089be828cb771048e81905ecf9f6df73c0f5a052e9603df3774e5
 
 #EXTINF:-1 tvg-id="ANDHD" group-title="Hindi Entertainment" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png",&TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
