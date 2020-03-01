@@ -85,6 +85,8 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=158279844
 #EXTINF:-1 tvg-id="sony" group-title="Hindi Entertainment" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true",Sony HD(Airtel)
 http://51.15.8.16:8081/ind1live/sonytv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Sony" group-title="Hindi Entertainment" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true",Sony (United Kingdom)
+http://51.15.8.16:8081/lolind2/sonytvuk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sony Max" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251",Sony Max HD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b
