@@ -82,8 +82,8 @@ http://89.187.191.77:25461/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/72215?token=H0BdAEBeQ
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif",Sony HD
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=1582798448~acl=%2f*~data=hdntl~hmac=f88b6cad5db56fa269c8d16aae1ed39659bd37b0c50aa3a226d6eb7c56cf58e0/master_3500.m3u8
 
-#EXTINF:-1 tvg-id="sony" group-title="Hindi Entertainment" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true",Sony HD
-http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/72146 
+#EXTINF:-1 tvg-id="sony" group-title="Hindi Entertainment" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true",Sony HD(Airtel)
+http://51.15.8.16:8081/ind1live/sonytv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Max" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251",Sony Max HD
