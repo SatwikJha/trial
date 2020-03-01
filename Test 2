@@ -103,7 +103,7 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg/revision/latest/scale-to-width-down/284?cb=20190614102247",Sony SAB HD
-https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
+http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STAR PLUS HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Star_Plus_HD_2016.jpg/revision/latest?cb=20190810163335",Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
