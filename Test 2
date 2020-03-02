@@ -120,8 +120,7 @@ http://zer0live.hjkm.info:13292/juno/stargoldselect/playlist.m3u8?wmsAuthSign=c2
 
 
 #EXTINF:-1 tvg-id="Sony Pal" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png",Sony Pal 
-https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/hdntl=exp=1582478180~acl=%2f*~data=hdntl~hmac=4936bc177fe8842bb644b260ca4fef954de1e0902b1c2a0fe7420710cf6f7e80/master_3500.m3u8
-
+http://51.15.8.16:8081/lolind2/sonypal/playlist.m3u8
 
 
 
