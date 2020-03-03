@@ -133,7 +133,7 @@ http://51.15.8.16:8081/lolind2/sonypal/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Max 2" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/Sony_Max_2.svg/revision/latest/top-crop/width/220/height/220?cb=20200122044355",Sony Max 2
-http://94.130.175.89:4545/ind2020/sonymax2/chunks.m3u8?nimblesessionid=4411721&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDQ6MDM6MDkgQU0maGFzaF92YWx1ZT1LTlBERlFrTjJlWnltSTVwSkx0eXdRPT0mdmFsaWRtaW51dGVzPTI=
+http://51.15.8.16:8081/lolind2/sonymax2/playlist.m3u8
 
 
 
@@ -151,7 +151,7 @@ https://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master.m3u8?faxs=1&hd
 
 
 #EXTINF:-1 tvg-id="Colors Rishtey" group-title="Hindi Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTo4umOfOk4R9pIoNeNLhvpiKAojCIz5rz0vqovIxh1ddFxIHiO",Rishtey Cineplex
-http://94.130.175.89:4545/ind2020/rishtaycineplex/chunks.m3u8?nimblesessionid=4032438&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDEwOjQ0OjQ2IEFNJmhhc2hfdmFsdWU9N05ibjZDRjExUjFCOU1sL2lBVGVYZz09JnZhbGlkbWludXRlcz0y
+http://51.15.8.16:8081/lolind2/rishteycineplexuk/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="Bhojpuri" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Bhojpuri_Cinema_logo.png", Bhojpuri Cinema
