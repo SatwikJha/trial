@@ -190,7 +190,7 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV
 https://sonyvidgyor.akamaized.net/hls/live/2004795/AAJTAKEVENT/AAJTAK/playlist.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1571990400_881172137fa781279c32f60c2dd661f6&__nn__=5606168722001&hdnea=1581759000_caf333da30e3c2113d73d83ee16c2092
 
 
-#EXTINF:-1 tvg-id="Aaj Tak HD" group-title="News" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/12/Aajtak-HD_1.jpg&w=620&h=350&zc=1&q=100",AajTak HD
+#EXTINF:-1 tvg-id="Aaj Tak HD" group-title="News" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Aaj_Tak_HD.png?raw=true",AajTak HD
 https://hshlsnews14-i.akamaihd.net/hls/live/625570/aajtakevent/aajtak_6/chunklist.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 
