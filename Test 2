@@ -237,6 +237,9 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/delhiaajtak.smil/chunklist_b3
 #EXTINF:-1 tvg-id="India Today" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/India_Today_TV_Channel_logo.jpg",India Today
 https://sonyvidgyor.akamaized.net/hls/live/2004796/INDIATODAYEVENT/INDIATODAY_7/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="News24" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/510px-News24_Logo.jpg",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="IBC News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Ibc24_logo.jpeg",IBC24 Chattisgarh&MP
 https://stream2.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=1582030800_8fbe9018e985771600a06beb13aaa6a7
