@@ -262,6 +262,13 @@ https://stream2.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=1582030800_8
 #EXTINF:-1 tvg-id="Zee" group-title="News" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true",Zee Hindustan
 http://zee18.site/zee/get.php?channel=hindustan
 
+#EXTINF:-1 tvg-id="LKSTV" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lok_Sabha_TV_logo.jpg/200px-Lok_Sabha_TV_logo.jpg",Lok Sabha TV
+http://89.187.179.131:25461/Testing1/Testing1/21215?token=QhIKUENQFQ9BBAIEUgJVCAJVBwVcVlQDBFcFBgRbBlIOUlIEAlkEU1NDHRNDFxBUVV5vWwBGCANQVgNQHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYBUAMAChxAQVlcFQ9BUgIIAVZAHRZWSEYBFlxQDTtWAEYKU1YbCgxEXFQbFwwPblVVDgNfUBEKEFRGHhMIF0JHCg1FX1UcQFNZTEVUFwQTCxJSVgUHERwQBwtHXxUWS0cKQXl9GxxAVEhMUlsQCF5fEllARUcRHBANF21DBBdGF1UCXVZLElgTABobFw4ASW5TDAxfUVBEWwsKQRNbRgNHHEFdXFdZFl5CZ0dcB0MLEwNTVgYDEU0=
+
+
+
+
+
 #EXTINF:-1 tvg-id="History" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/History_TV18_logo.png/150px-History_TV18_logo.png",History TV18(Hindi)
 http://89.187.179.131:25461/Testing1/Testing1/21048?token=QhIKUENQFQ9BVwQHCVcEAgxXAFBVVQYCAwUBBwhaAwZcAVUEVAsCBlNDHRNDFxBUVV5vWwBGCANQVAZdHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYAVQkEChxAQVlcFQ9BUgYJAUFOE1FLRFcWClNdPgBXE1kAVREDXhddXBQVWg0+VVRdAgxVFgkSAkZIEFgSFBBfXhZcXxUSAFhESlZBBkMLEwJWUAIWHxJRCxFcRRMdEF8SKn4RFRIHSURdWUYKDl8TCkEWQhYfElsXO0BUEhBAAFEOVUEbCkABEhQVWAIZblJfDQxUV0dZXQoXEAtDVRBJEg5fXVBEDUNvSF5RQVsTBQhbVxNJ
 
