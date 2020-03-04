@@ -259,11 +259,11 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="IBC News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Ibc24_logo.jpeg",IBC24 Chattisgarh&MP
 https://stream2.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=1582030800_8fbe9018e985771600a06beb13aaa6a7
 
-#EXTINF:-1 tvg-id="Zee' group-title="News" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true",Zee Hindustan
+#EXTINF:-1 tvg-id="Zee" group-title="News" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true",Zee Hindustan
 http://zee18.site/zee/get.php?channel=hindustan
 
-EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="Infotainment,BBC Earth HD
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
+EXTINF:-1 tvg-id="History group-title="Infotainment tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/History_TV18_logo.png/150px-History_TV18_logo.png,History TV18(Hindi)
+http://89.187.179.131:25461/Testing1/Testing1/21048?token=QhIKUENQFQ9BVwQHCVcEAgxXAFBVVQYCAwUBBwhaAwZcAVUEVAsCBlNDHRNDFxBUVV5vWwBGCANQVAZdHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYAVQkEChxAQVlcFQ9BUgYJAUFOE1FLRFcWClNdPgBXE1kAVREDXhddXBQVWg0+VVRdAgxVFgkSAkZIEFgSFBBfXhZcXxUSAFhESlZBBkMLEwJWUAIWHxJRCxFcRRMdEF8SKn4RFRIHSURdWUYKDl8TCkEWQhYfElsXO0BUEhBAAFEOVUEbCkABEhQVWAIZblJfDQxUV0dZXQoXEAtDVRBJEg5fXVBEDUNvSF5RQVsTBQhbVxNJ
 
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="Infotainment",Sony BBC Earth
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1582623982~acl=%2f*~data=hdntl~hmac=c671d9dfb2773d387215994a0b386a25cdc2f95100fff5d8de0c241580300be7/master_3500.m3u8
