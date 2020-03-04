@@ -8,11 +8,11 @@ http://p5.giffy.be:8080/Testing1/Testing1/21055
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Videocon" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzoXK3NLZ3BRwm9puzYYeLJD8KM7-7nDXfU6fQ3uJQ6E_7vzBuGA&s",Videocon D2H Cinema
-http://89.187.179.131:25461/Testing1/Testing1/21044?token=QhIKUENQFQ9BU1JUAFBQUwEEBQtWVgEDBFxWAAIABgIIVFNVBgsBBFNDHRNDFxBUVV5vWwBGCANQVAZRHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYAUgMFDhxAQVlcFQ9BUgUJAUFOE1FLRFcWClNdPgBXE1kAVREDXhddXBQVWg0+VVRdAgxVFgkSAkZIEFgSFBBfXhZcXxUSAFhESlZBBkMLEwJQUAEWHxJRCxFcRRMdEF8SKn4RFRIHSURdWUYKDl8TCkEWQhYfElsXO0BUEhBAAFEOVUEbCkABEhQVWAIZblJfDQxUV0dZXQoXEAtDVRBJEg5fXVBEDUNvSF5RQVsTAwdUWwgWTg==
+http://p5.giffy.be:8080/Testing1/Testing1/21044
 
 
 #EXTINF:-1 tvg-id="UTV Action" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png",UTV Action
-http://89.187.179.131:25461/Testing1/Testing1/21245?token=QhIKUENQFQ9BUFUBBFpaBw0GU1YGVFNQAgALAVNRUQBdUVoEAV5RA1RDHRNDFxBUVV5vWwBGCANQVgZQHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYBUQgADhxAQVlcFQ9BUAUABVJAHRZWSEYBFlxQDTtWAEYKU1YbCgxEXFQbFwwPblVVDgNfUBEKEFRGHhMIF0JHCg1FX1UcQFNZTEVUFwQTCxJRUwcCERwQBwtHXxUWS0cKQXl9GxxAVEhMUlsQCF5fEllARUcRHBANF21DBBdGF1UCXVZLElgTABobFw4ASW5TDAxfUVBEWwsKQRNbRgNHHEFdXFdZFl5CZ0dcB0MLEwFbWwUHEU0=
+http://p5.giffy.be:8080/Testing1/Testing1/21245
 
 #EXTINF:-1 tvg-id="&PictureHD" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest/scale-to-width-down/340?cb=20190626075812",&PictureHD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
@@ -25,7 +25,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
 #EXTINF:-1 tvg-id="Movies OK" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT94kggg9KECXAG2SGzEr2jeBEVCH7ZSYCeh-wUIizKMGNVdFlqfQVRtIM6&s=10",Movies OK
 http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 #EXTINF:-1 tvg-id="UTV HD" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg/revision/latest/scale-to-width-down/340?cb=20181021120741",UTV HD
-http://89.187.179.131:25461/Testing1/Testing1/21059?token=QhIKUENQFQ9BWVIABVNSVA0AVANTAFFVBAIDBANSUQYJVlUCBw0GBAVDHRNDFxBUVV5vWwBGCANQVAdcHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYAVAcBDBxAQVlcFQ9BUgYCBEFOE1FLRFcWClNdPgBXE1kAVREDXhddXBQVWg0+VVRdAgxVFgkSAkZIEFgSFBBfXhZcXxUSAFhESlZBBkMLEwJWWwcWHxJRCxFcRRMdEF8SKn4RFRIHSURdWUYKDl8TCkEWQhYfElsXO0BUEhBAAFEOVUEbCkABEhQVWAIZblJfDQxUV0dZXQoXEAtDVRBJEg5fXVBEDUNvSF5RQVsTAABRUwMWTg==
+http://p5.giffy.be:8080/Testing1/Testing1/21059
 
 
 #EXTINF:-1 tvg-id="HBO 2" group-title="Movies" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo2.png",HBO 2
@@ -151,7 +151,7 @@ http://51.15.8.16:8081/lolind2/sonymax2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Mix" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/SET_Mix.png/revision/latest?cb=20110930222927",Sony Mix
-http://89.187.179.131:25461/Testing1/Testing1/21205?token=QhIKUENQFQ9BAgJSUQZWUwAHVVdSAQQBVlMHAVJTBlYAUQdTBAoOA1ZDHRNDFxBUVV5vWwBGCANQVgJQHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYAVQEKCBxAQVlcFQ9BUgYJB1pAHRZWSEYBFlxQDTtWAEYKU1YbCgxEXFQbFwwPblVVDgNfUBEKEFRGHhMIF0JHCg1FX1UcQFNZTEVUFwQTCxJSVwYAERwQBwtHXxUWS0cKQXl9GxxAVEhMUlsQCF5fEllARUcRHBANF21DBBdGF1UCXVZLElgTABobFw4ASW5TDAxfUVBEWwsKQRNbRgNHHEFdXFdZFl5CZ0dcB0MLEwNTUQkCEU0=
+http://p5.giffy.be:8080/Testing1/Testing1/21205
 
 #EXTINF:-1 tvg-id="Star" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Star_Bharat_Official_Logo.jpg/220px-Star_Bharat_Official_Logo.jpg",Star Bharat HD
 http://p5.giffy.be:8080/Testing1/Testing1/21042
@@ -164,7 +164,7 @@ https://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master.m3u8?faxs=1&hd
 
 
 #EXTINF:-1 tvg-id="Colors Rishtey" group-title="Hindi Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTo4umOfOk4R9pIoNeNLhvpiKAojCIz5rz0vqovIxh1ddFxIHiO",Rishtey Cineplex
-http://51.15.8.16:8081/lolind2/rishteycineplexuk/chunks.m3u8
+http://p5.giffy.be:8080/Testing1/Testing1/21039
 
 
 #EXTINF:-1 tvg-id="Bhojpuri" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Bhojpuri_Cinema_logo.png", Bhojpuri Cinema
