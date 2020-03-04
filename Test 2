@@ -181,9 +181,12 @@ http://94.130.175.89:4545/ind2020/epic/chunks.m3u8?nimblesessionid=4026408&wmsAu
 #EXTINF:-1 tvg-id="Tez" group-title="News" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599025s.png",TEZ News
 https://hsaajtak-i.akamaihd.net/hls/live/719730/tezevent/tez_6/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="DD" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DD_News_Logo_2015.jpg/280px-DD_News_Logo_2015.jpg",DD News
+http://89.187.179.131:25461/Testing1/Testing1/21065?token=QhIKUENQFQ9BAAUIBlVUA1ZSA1dUVlBVUwEKAwlVAwQPA1MDAQhRVgZDHRNDFxBUVV5vWwBGCANQVARQHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYAUQAGDxxAQVlcFQ9BVQQGCUFOE1FLRFcWClNdPgBXE1kAVREDXhddXBQVWg0+VVRdAgxVFgkSAkZIEFgSFBBfXhZcXxUSAFhESlZBBkMLEwFbWwQWHxJRCxFcRRMdEF8SKn4RFRIHSURdWUYKDl8TCkEWQhYfElsXO0BUEhBAAFEOVUEbCkABEhQVWAIZblJfDQxUV0dZXQoXEAtDVRBJEg5fXVBEDUNvSF5RQVsTAwlbUwAWTg==
+
+
 #EXTINF:- tvg-id="News Nation" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg",News Nation
 https://livestream.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_NewsNation/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="R Bharat" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg" group-title="News",TV9 Bharatvarsh
@@ -258,9 +261,6 @@ https://stream2.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=1582030800_8
 #EXTINF:-1 tvg-id="Zee' group-title="News" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Hindustan.png?raw=true",Zee Hindustan
 http://zee18.site/zee/get.php?channel=hindustan
 
-
-#EXTINF:-1 tvg-id="DD Bihar" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DD_News_Logo_2015.jpg/280px-DD_News_Logo_2015.jpg",DD News
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 
 
 #EXTINF:-1 tvg-name="Discovery Showcase" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Discovery_Showcase_HD.png/revision/latest/scale-to-width-down/300?cb=20161213133625",Discovery Showcase
