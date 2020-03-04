@@ -177,7 +177,7 @@ http://zee18.site/zee/get.php?channel=zeeanmol
 
 
 #EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/Epic_channel_logo1.png",Epic
-http://94.130.175.89:4545/ind2020/epic/chunks.m3u8?nimblesessionid=4026408&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDIwIDEwOjI0OjUxIEFNJmhhc2hfdmFsdWU9YVJNQ2kwMlZuNFo0cmFJR3dNVlFsZz09JnZhbGlkbWludXRlcz0y
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Tez" group-title="News" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599025s.png",TEZ News
@@ -392,11 +392,11 @@ http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 
 
 #EXTINF:-1 tvg-id="NBA" group-title="NBA" tvg-logo="https://content.sportslogos.net/logos/6/982/thumbs/98281472018.gif",NBA TV(USA)
-http://23.237.100.130:25461/Testing1/Testing1/11612?token=QhIKUENQFQ9BVAIJBABWCA0HVAVQAARXBwFRUFJUUwNcUQdQCVxVUVVDHRNDFxBUVV5vWwBGCABQUgNXHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYAVwMDDxxAQVlcFQ9BUgcEAkFOE1FLRFcWClNdPgBXE1kAVREDXhddXBQVWg0+VVRdAgxVFgkSAkZIEFgSFBBfXhZcXxUSAFhESlZBBkMLEwJaVQUWHxJRCxFcRRMdEF8SKn4RFRIHSURdWUYKDl8TCkEWQhYfElsXO0BUEhBAAFEOVUEbCkABEhQVWAIZblJfDQxUV0dZXQoXEAtDVRBJEg5fXVBEDUNvSF5RQVsTCAJVVBNJ
+http://p5.giffy.be:8080/Testing1/Testing1/11612
 
 
 #EXTINF:-1 tvg-id="NBA" group-title="NBA" tvg-logo="https://content.sportslogos.net/logos/6/982/thumbs/98281472018.gif",NBA TV(CANADA)
-http://23.237.68.122:25461/Testing1/Testing1/44539?token=QhIKUENQFQ9BVgkCBVIBCQRRCFBVUAUBBVVUVQRUBgdfUlEHBVoFB1FDHRNDFxBUVV5vWwBGCAVVUQFcHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYAVwUHCRxAQVlcFQ9BUwQDCFtAHRZWSEYBFlxQDTtWAEYKU1YbCgxEXFQbFwwPblVVDgNfUBEKEFRGHhMIF0JHCg1FX1UcQFNZTEVUFwQTCxJRWwQCERwQBwtHXxUWS0cKQXl9GxxAVEhMUlsQCF5fEllARUcRHBANF21DBBdGF1UCXVZLElgTABobFw4ASW5TDAxfUVBEWwsKQRNbRgNHHEFdXFdZFl5CZ0dcB0MLEwNVVwQWTg==
+http://p5.giffy.be:8080/Testing1/Testing1/44539
 
 
 #EXTINF:1 tvg-logo="http://memestamil.com/hindifm/img/radiocity.png" group-title="Radio",Radio City
