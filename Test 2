@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="SONY MAX HD" group-title="Movies" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_298/PORTRAIT/Lad3I4Yq.png?o=production",Sony Max HD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b
 #EXTINF:-1 tvg-id="Select" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707",Star Gold Select
-http://p5.giffy.be:8080/Testing1/Testing1/21055
+http://89.187.179.131:25461/Testing1/Testing1/21055?token=QhIKUENQFQ9BAwADUVIDAAwDAVFQAAtSVQEHVQJaUQULUlZXVAkGVAFDHRNDFxBUVV5vWwBGCANQVAdQHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYDWwIDARxAQVlcFQ9BVwYCBEFOE1FLRFcWClNdPgBXE1kAVREDXhddXBQVWg0+VVRdAgxVFgkSAkZIEFgSFBBfXhZcXxUSAFhESlZBBkMLEwJbVAEWHxJRCxFcRRMdEF8SKn4RFRIHSURdWUYKDl8TCkEWQhYfElsXO0BUEhBAAFEOVUEbCkABEhQVWAIZblJfDQxUV0dZXQoXEAtDVRBJEg5fXVBEDUNvSF5RQVsTAwdbUwQWTg==
 
 #EXTINF:-1 tvg-id="Star Gold" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg",Star Gold
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
@@ -97,7 +97,7 @@ http://p5.giffy.be:8080/Testing1/Testing1/21054
 http://51.15.8.16:8081/ind1live/sonytv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Select" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707",Star Gold Select
-http://p5.giffy.be:8080/Testing1/Testing1/21055
+http://89.187.179.131:25461/Testing1/Testing1/21055?token=QhIKUENQFQ9BAwADUVIDAAwDAVFQAAtSVQEHVQJaUQULUlZXVAkGVAFDHRNDFxBUVV5vWwBGCANQVAdQHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYDWwIDARxAQVlcFQ9BVwYCBEFOE1FLRFcWClNdPgBXE1kAVREDXhddXBQVWg0+VVRdAgxVFgkSAkZIEFgSFBBfXhZcXxUSAFhESlZBBkMLEwJbVAEWHxJRCxFcRRMdEF8SKn4RFRIHSURdWUYKDl8TCkEWQhYfElsXO0BUEhBAAFEOVUEbCkABEhQVWAIZblJfDQxUV0dZXQoXEAtDVRBJEg5fXVBEDUNvSF5RQVsTAwdbUwQWTg==
 
 
 
