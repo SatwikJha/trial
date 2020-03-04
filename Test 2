@@ -86,6 +86,12 @@ https://sony247channels.akamaized.net/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw
 #EXTINF:-1 tvg-id="sony" group-title="Hindi Entertainment" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true",Sony HD(Airtel)
 http://51.15.8.16:8081/ind1live/sonytv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Select" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707",Star Gold Select
+http://89.187.179.131:25461/Testing1/Testing1/21055?token=QhIKUENQFQ9BBQMCAlMAVAAEUQFRVAYJBwJRBFICCFYLU1UBVA1WDVdDHRNDFxBUVV5vWwBGCANQVAdQHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVcJVQgLDRxAQVlcFQ9BVwQACUFOE1FLRFcWClNdPgBXE1kAVREDXhddXBQVWg0+VVRdAgxVFgkSAkZIEFgSFBBfXhZcXxUSAFhESlZBBkMLEwJbVAMWHxJRCxFcRRMdEF8SKn4RFRIHSURdWUYKDl8TCkEWQhYfElsXO0BUEhBAAFEOVUEbCkABEhQVWAIZblJfDQxUV0dZXQoXEAtDVRBJEg5fXVBEDUNvSF5RQVsTAwdbUwQWTg==
+
+
+
+
 #EXTINF:-1 tvg-id="andTv" group-title="Hindi Entertainment" tvg-logo=https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png",&TV(Reliance)
 http://45.120.188.76:8080/0.ts
 
@@ -119,10 +125,6 @@ https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/180px-Zee_TV-2018.png",Zee TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Select" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707",Star Gold Select
-http://zer0live.hjkm.info:13292/juno/stargoldselect/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjAgODoyODoyNyBBTSZoYXNoX3ZhbHVlPVlGWTFiUWxEREhtUCtaYmxSRjJlVkE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 
 
