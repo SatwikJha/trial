@@ -81,7 +81,7 @@ http://89.187.191.77:25461/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/72215?token=H0BdAEBeQ
 
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif",Sony HD
-https://sony247channels.akamaized.net/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/12412564-066f-4f1d-bf44-f7bce6d538e9:SIN/variant/eb410dcdf1381105c4deb73b10f1e001/bandwidth/hdntl=exp=1583305254~acl=%2f*~data=hdntl~hmac=03049198b976d7843c4badcee1a3b140cc65f7e65de82d39bcc34c9f3582f908/4571600.m3u8
+http://89.187.179.131:25461/Testing1/Testing1/21054?token=QhIKUENQFQ9BUAZQB1RXAVAGVgsAVgZUB1NQBglSAgZbCVECCV4DA1ZDHRNDFxBUVV5vWwBGCANQVAdRHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVcJVAULCRxAQVlcFQ9BVwYCAkFOE1FLRFcWClNdPgBXE1kAVREDXhddXBQVWg0+VVRdAgxVFgkSAkZIEFgSFBBfXhZcXxUSAFhESlZBBkMLEwJaUAgWHxJRCxFcRRMdEF8SKn4RFRIHSURdWUYKDl8TCkEWQhYfElsXO0BUEhBAAFEOVUEbCkABEhQVWAIZblJfDQxUV0dZXQoXEAtDVRBJEg5fXVBEDUNvSF5RQVsTAARXVgAWTg==
 
 #EXTINF:-1 tvg-id="sony" group-title="Hindi Entertainment" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true",Sony HD(Airtel)
 http://51.15.8.16:8081/ind1live/sonytv/playlist.m3u8
