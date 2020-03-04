@@ -3,6 +3,14 @@
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8?token=a700c2740eda36dc9f8a6155b0d28c1b
 #EXTINF:-1 tvg-id="Select" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707",Star Gold Select
 http://89.187.179.131:25461/Testing1/Testing1/21055?token=QhIKUENQFQ9BBQMCAlMAVAAEUQFRVAYJBwJRBFICCFYLU1UBVA1WDVdDHRNDFxBUVV5vWwBGCANQVAdQHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVcJVQgLDRxAQVlcFQ9BVwQACUFOE1FLRFcWClNdPgBXE1kAVREDXhddXBQVWg0+VVRdAgxVFgkSAkZIEFgSFBBfXhZcXxUSAFhESlZBBkMLEwJbVAMWHxJRCxFcRRMdEF8SKn4RFRIHSURdWUYKDl8TCkEWQhYfElsXO0BUEhBAAFEOVUEbCkABEhQVWAIZblJfDQxUV0dZXQoXEAtDVRBJEg5fXVBEDUNvSF5RQVsTAwdbUwQWTg==
+#EXTINF:-1 tvg-id="Star Gold" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg",Star Gold
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Videocon" group-title="Movies" tvg-logo="https://www.satlogo.com/hires/vv/videocon_d2h_cinema.png",Videocon D2H Cinema
+http://89.187.179.131:25461/Testing1/Testing1/21044?token=QhIKUENQFQ9BU1JUAFBQUwEEBQtWVgEDBFxWAAIABgIIVFNVBgsBBFNDHRNDFxBUVV5vWwBGCANQVAZRHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYAUgMFDhxAQVlcFQ9BUgUJAUFOE1FLRFcWClNdPgBXE1kAVREDXhddXBQVWg0+VVRdAgxVFgkSAkZIEFgSFBBfXhZcXxUSAFhESlZBBkMLEwJQUAEWHxJRCxFcRRMdEF8SKn4RFRIHSURdWUYKDl8TCkEWQhYfElsXO0BUEhBAAFEOVUEbCkABEhQVWAIZblJfDQxUV0dZXQoXEAtDVRBJEg5fXVBEDUNvSF5RQVsTAwdUWwgWTg==
+
+
+
 #EXTINF:-1 tvg-id="&PictureHD" group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest/scale-to-width-down/340?cb=20190626075812",&PictureHD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-id="Zee Cinema" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Zee_Cinema_New_Logo.png/200px-Zee_Cinema_New_Logo.png",Zee Cinema HD
@@ -13,8 +21,7 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/action/index.m3u8
 #EXTINF:-1 tvg-id="Movies OK" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT94kggg9KECXAG2SGzEr2jeBEVCH7ZSYCeh-wUIizKMGNVdFlqfQVRtIM6&s=10",Movies OK
 http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
-#EXTINF:-1 tvg-id="Star Gold" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg",Star Gold
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-id="HBO 2" group-title="Movies" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo2.png",HBO 2
