@@ -658,3 +658,21 @@ http://p5.giffy.be:8080/movie/Testing1/Testing1/20011.mkv
 
 #EXTINF:-1 tvg-id="ujda" group-title="VOD(MOVIES & SERIES)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Ujda_Chaman_Film_Poster.jpg/220px-Ujda_Chaman_Film_Poster.jpg",Ujda Chaman
 http://p5.giffy.be:8080/movie/Testing1/Testing1/51390.mkv
+
+#EXTINF:-1 tvg-id="aligarh" group-title="VOD(MOVIES & SERIES)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/AligarhFilmPoster.jpg/220px-AligarhFilmPoster.jpg",Aligarh
+http://p5.giffy.be:8080/movie/Testing1/Testing1/16995.mkv
+
+#EXTINF:-1 tvg-id="Shubh" group-title="VOD(MOVIES & SERIES)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Shubh_Mangal_Savdhan_Poster.jpg/220px-Shubh_Mangal_Savdhan_Poster.jpg",Shubh Mangal Saavdhan
+http://p5.giffy.be:8080/movie/Testing1/Testing1/17036.mkv
+
+#EXTINF:-1 tvg-id="Thackeray" group-title="VOD(MOVIES & SERIES)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Thackeray_film_poster.jpeg/220px-Thackeray_film_poster.jpeg", Thackeray
+http://p5.giffy.be:8080/movie/Testing1/Testing1/16386.mkv
+
+
+#EXTINF:-1 tvg-id="Hotel" group-title="VOD(MOVIES & SERIES)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Hotel_Mumbai_poster.jpg,Hotel Mumbai
+http://p5.giffy.be:8080/movie/Testing1/Testing1/16353.mp4
+
+
+
+
+
