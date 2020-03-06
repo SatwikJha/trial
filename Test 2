@@ -673,6 +673,12 @@ http://p5.giffy.be:8080/movie/Testing1/Testing1/16386.mkv
 http://p5.giffy.be:8080/movie/Testing1/Testing1/16353.mp4
 
 
+#EXTINF:-1 tvg-id="uri" group-title="VOD(MOVIES & SERIES)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/URI_-_New_poster.jpg/220px-URI_-_New_poster.jpg, URI:The Surgical Strike
+http://p5.giffy.be:8080/movie/Testing1/Testing1/16393.mkv
+
+
+
+
 
 
 
