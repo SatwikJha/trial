@@ -278,10 +278,10 @@ http://p5.giffy.be:8080/Testing1/Testing1/21215
 
 
 #EXTINF:-1 tvg-id="History" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/History_TV18_logo.png/150px-History_TV18_logo.png",History TV18(Hindi)
-http://89.187.179.131:25461/Testing1/Testing1/21048?token=QhIKUENQFQ9BVwQHCVcEAgxXAFBVVQYCAwUBBwhaAwZcAVUEVAsCBlNDHRNDFxBUVV5vWwBGCANQVAZdHEFFQFxCPVhUGg0XUlEIBAVXQB0WR1lfAUYIAFRcAVYAVQkEChxAQVlcFQ9BUgYJAUFOE1FLRFcWClNdPgBXE1kAVREDXhddXBQVWg0+VVRdAgxVFgkSAkZIEFgSFBBfXhZcXxUSAFhESlZBBkMLEwJWUAIWHxJRCxFcRRMdEF8SKn4RFRIHSURdWUYKDl8TCkEWQhYfElsXO0BUEhBAAFEOVUEbCkABEhQVWAIZblJfDQxUV0dZXQoXEAtDVRBJEg5fXVBEDUNvSF5RQVsTBQhbVxNJ
+http://p5.giffy.be:8080/Testing1/Testing1/21048
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sony_turbo_ru.jpg"  group-title="Infotainment",Sony BBC Earth
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1582623982~acl=%2f*~data=hdntl~hmac=c671d9dfb2773d387215994a0b386a25cdc2f95100fff5d8de0c241580300be7/master_3500.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png" group-title="Infotainment",Sony BBC Earth
+http://p5.giffy.be:8080/Testing1/Testing1/21064
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/Discovery_Channel-logo-32C279A19D-seeklogo.com.png"  group-title="Infotainment",discovery
 https://streamer-1.toffeelive.com/live/discovery_hd_720/index.m3u8
