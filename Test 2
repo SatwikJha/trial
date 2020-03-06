@@ -116,6 +116,9 @@ http://p5.giffy.be:8080/Testing1/Testing1/21037
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&TV_HD.png?raw=true" group-title="Hindi Entertainment",&TV HD
 http://zee18.site/zee/get.php?channel=andtvhd
 
+#EXTINF:-1 tvg-id="Sony Sab" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg/revision/latest/scale-to-width-down/284?cb=20190614102247",Sony Sab(Tata Sky)
+http://p5.giffy.be:8080/Testing1/Testing1/21043
+
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg/revision/latest/scale-to-width-down/284?cb=20190614102247",Sony SAB HD
 http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
 
