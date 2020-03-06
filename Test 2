@@ -273,7 +273,8 @@ http://zee18.site/zee/get.php?channel=hindustan
 #EXTINF:-1 tvg-id="LKSTV" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lok_Sabha_TV_logo.jpg/200px-Lok_Sabha_TV_logo.jpg",Lok Sabha TV
 http://p5.giffy.be:8080/Testing1/Testing1/21215
 
-
+#EXTINF:-1 tvg-id="DD" group-title="News" tvg-logo="https://doordarshan.gov.in/sites/default/files/DD_Bihar.png",DD Bihar
+http://p5.giffy.be:8080/Testing1/Testing1/21193
 
 
 
