@@ -90,7 +90,7 @@ http://89.187.191.77:25461/O0u0uimtYjK6gzA/4cKC3SXABQbPinv/72215?token=H0BdAEBeQ
 
 
 
-#EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif",Sony HD
+#EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif",Sony HD(Tata Sky)
 http://p5.giffy.be:8080/Testing1/Testing1/21054
 
 #EXTINF:-1 tvg-id="sony" group-title="Hindi Entertainment" tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_HD.png?raw=true",Sony HD(Airtel)
@@ -183,7 +183,7 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="Tez" group-title="News" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599025s.png",TEZ News
 https://hsaajtak-i.akamaihd.net/hls/live/719730/tezevent/tez_6/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="DD" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DD_News_Logo_2015.jpg/280px-DD_News_Logo_2015.jpg",DD News
+#EXTINF:-1 tvg-id="DD" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DD_News_Logo_2015.jpg/280px-DD_News_Logo_2015.jpg",DD News(Dish TV)
 http://p5.giffy.be:8080/Testing1/Testing1/21065
 
 
