@@ -264,6 +264,9 @@ https://sonyvidgyor.akamaized.net/hls/live/2004796/INDIATODAYEVENT/INDIATODAY_7/
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 
 
+#EXTINF:-1 tvg-id="News" group-title="News" tvg-logo="https://scontent.fdel12-1.fna.fbcdn.net/v/t31.0-0/p168x128/28828779_152846818733468_1715954902990479562_o.png?_nc_cat=105&_nc_sid=85a577&_nc_ohc=z3ryE6ytGL0AX9FF8hH&_nc_ht=scontent.fdel12-1.fna&oh=3b745bd796051987954901a6670df488&oe=5E98D0C9",News 24X7
+http://p5.giffy.be:8080/Testing1/Testing1/21106
+
 #EXTINF:-1 tvg-id="IBC News" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Ibc24_logo.jpeg",IBC24 Chattisgarh&MP
 https://stream2.ibc24.in/livestream.m3u8?__nn__=5606168722001&hdnea=1582030800_8fbe9018e985771600a06beb13aaa6a7
 
