@@ -656,3 +656,5 @@ http://tr1t0n.steropes.feralhosting.com/movies/Joker.2019.1080p.KORSUB.HDRip.x26
 #EXTINF:-1 tvg-id="Hobbs" group-title="VOD(MOVIES & SERIES)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Fast_%26_Furious_Presents_Hobbs_%26_Shaw_-_theatrical_poster.jpg/220px-Fast_%26_Furious_Presents_Hobbs_%26_Shaw_-_theatrical_poster.jpg",Fast&Furious(HOBBS & SHAW)
 http://p5.giffy.be:8080/movie/Testing1/Testing1/20011.mkv
 
+#EXTINF:-1 tvg-id="ujda" group-title="VOD(MOVIES & SERIES)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Ujda_Chaman_Film_Poster.jpg/220px-Ujda_Chaman_Film_Poster.jpg",Ujda Chaman
+http://p5.giffy.be:8080/movie/Testing1/Testing1/51390.mkv
